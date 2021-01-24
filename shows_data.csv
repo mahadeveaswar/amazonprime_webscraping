@@ -1,0 +1,701 @@
+,title,seasons,start_year,imdb_rating,viewer_maturity,genre,content_advisory,network,episodes,avg_episode_runtime
+0,TANDAV,1,2021,3.9,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,10,35.5
+0,YOUNG SHELDON,4,2018,-1.0,Teens,['COMEDY'],"['moderate drug use', 'mild foul language', 'moderate sexuality', 'nudity', 'violence']",WB,71,19.47887323943662
+0,THE WILDS,1,2020,7.2,Young Adults,"['YOUNG ADULT AUDIENCE', 'DRAMA']","['violence', 'sexual content', 'drug use', 'foul language']",AMAZON STUDIOS,10,52.2
+0,THE BOYS,2,2019,8.7,Adults,"['ACTION', 'COMEDY']","['moderate drug use', 'strong foul language', 'severe sexuality', 'severe nudity', 'strong violence']",AMAZON STUDIOS,21,53.38095238095238
+0,MIRZAPUR,2,2018,8.4,Adults,"['DRAMA', 'ACTION', 'SUSPENSE']","['strong foul language', 'drug use', 'strong sexuality', 'strong violence']",AMAZON STUDIOS,21,49.666666666666664
+0,BANDISH BANDITS,1,2020,8.6,Young Adults,"['ROMANCE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,10,41.8
+0,BREATHE: INTO THE SHADOWS,1,2020,7.6,Young Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,45.833333333333336
+0,RASBHARI,1,2020,2.8,Adults,"['COMEDY', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",APPLAUSE,8,25.375
+0,SONS OF THE SOIL : JAIPUR PINK PANTHERS,1,2020,7.5,Young Adults,"['DRAMA', 'SPORTS', 'DOCUMENTARY']","['foul language', 'sexual content', 'violence']",AMAZON STUDIOS,5,30.2
+0,FOUR MORE SHOTS PLEASE!,2,2019,6.8,Adults,"['DRAMA', 'COMEDY', 'INTERNATIONAL']","['moderate drug use', 'foul language', 'strong sexuality', 'violence']",AMAZON STUDIOS,21,33.904761904761905
+0,THE TEST: A NEW ERA FOR AUSTRALIA'S TEAM,1,2020,8.9,Young Adults,['DOCUMENTARY'],"['drug use', 'foul language', 'violence']",NA,8,52.625
+0,PANCHAYAT,1,2020,8.7,Young Adults,"['INTERNATIONAL', 'DRAMA', 'COMEDY']","['foul language', 'drug use', 'sexual content', 'violence']",THE VIRAL FEVER,8,30.625
+0,THE EXPANSE,5,2019,8.5,Young Adults,"['ACTION', 'SCIENCE FICTION']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,55,43.872727272727275
+0,ZEROZEROZERO,1,2020,8.2,Adults,"['SUSPENSE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",NA,8,54.75
+0,THE FAMILY MAN,2,2019,8.6,Adults,"['ACTION', 'DRAMA']","['strong foul language', 'strong drug use', 'sexual content', 'moderate violence']",AMAZON STUDIOS,11,45.90909090909091
+0,THE FORGOTTEN ARMY - AZAADI KE LIYE,1,2020,8.0,Adults,"['ACTION', 'DRAMA']","['strong foul language', 'moderate sexuality', 'strong violence']",AMAZON STUDIOS,6,39.0
+0,BREATHE,1,2018,8.3,Young Adults,"['INTERNATIONAL', 'SUSPENSE', 'DRAMA']","['moderate drug use', 'strong foul language', 'strong sexuality', 'strong violence']",AMAZON STUDIOS,9,38.111111111111114
+0,COMICSTAAN,2,2018,6.8,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,19,59.31578947368421
+0,HOSTEL DAZE,1,2019,8.6,Adults,"['COMEDY', 'DRAMA', 'INTERNATIONAL']","['severe foul language', 'moderate drug use', 'mild sexuality', 'violence']",THE VIRAL FEVER,5,31.8
+0,MADE IN HEAVEN,1,2019,8.3,Adults,"['DRAMA', 'ROMANCE', 'INTERNATIONAL']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,10,50.3
+0,MR. BEAN,1,1995,-1.0,Young Adults,['COMEDY'],"['mild foul language', 'drug use', 'sexual content', 'mild nudity', 'violence']",TIGER ASPECT PRODUCTIONS,14,24.928571428571427
+0,MASTERS OF SEX,4,2013,-1.0,Young Adults,['FANTASY'],"['strong foul language', 'moderate drug use', 'strong sexuality', 'severe nudity', 'violence']",SHOWTIME ,47,57.255319148936174
+0,THE GOOD DOCTOR,3,2018,8.2,Young Adults,['DRAMA'],"['moderate foul language', 'mild drug use', 'sexual content', 'moderate violence']",SONY PICTURES HOME ENTERTAINMENT,56,42.92857142857143
+0,INSIDE EDGE,2,2017,8.0,Adults,"['DRAMA', 'SUSPENSE']","['strong foul language', 'strong drug use', 'strong sexuality', 'moderate violence']",AMAZON STUDIOS,22,42.77272727272727
+0,THE VAMPIRE DIARIES,8,2010,7.7,Young Adults,"['HORROR', 'DRAMA', 'ROMANCE', 'SUSPENSE']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'nudity', 'moderate violence']",NA,172,42.03488372093023
+0,EL CID,1,2020,6.3,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,5,58.4
+0,THE BIG BANG THEORY,12,2008,8.1,Young Adults,['COMEDY'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'nudity', 'mild violence']",WARNER BROS.,279,20.22222222222222
+0,THE OFFICE,9,2005,8.9,Teens,['COMEDY'],"['drug use', 'moderate foul language', 'sexual content', 'violence']",NBCUNIVERSAL,204,22.0
+0,PUSHPAVALLI,2,2017,-1.0,Young Adults,"['DRAMA', 'COMEDY', 'INTERNATIONAL']","['foul language', 'violence']",OML,16,24.625
+0,TOM CLANCY'S JACK RYAN,2,2018,8.1,Young Adults,"['MILITARY AND WAR', 'DRAMA', 'ACTION', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,17,48.588235294117645
+0,AMAZON FUNNIES – 10 MINUTE STAND-UPS,1,2020,-1.0,Teens,"['ARTS, ENTERTAINMENT, AND CULTURE', 'COMEDY']","['foul language', 'sexual content', 'violence']",OML,15,11.733333333333333
+0,TIME ENNA BOSS,1,2020,-1.0,Young Adults,"['COMEDY', 'INTERNATIONAL']","['drug use', 'foul language']",KAVITHALAYAA,10,22.3
+0,CHACHA VIDHAYAK HAIN HUMARE,1,2018,-1.0,Young Adults,"['COMEDY', 'DRAMA', 'INTERNATIONAL']","['moderate drug use', 'moderate foul language', 'sexual content', 'mild violence']",OML,8,25.25
+0,THE MENTALIST,7,2009,8.1,Adults,['DRAMA'],"['moderate foul language', 'drug use', 'sexual content', 'strong violence']",WB,150,42.95333333333333
+0,YEARLY DEPARTED,1,2020,5.6,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE', 'TALK SHOW AND VARIETY', 'COMEDY']","['violence', 'sexual content', 'drug use', 'foul language', 'nudity']",AMAZON STUDIOS,1,44.0
+0,MODERN LOVE,1,2019,8.0,Young Adults,"['ROMANCE', 'COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,9,33.111111111111114
+0,AMERICAN GODS,3,2017,7.8,Adults,"['DRAMA', 'FANTASY']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",FREMANTLE,18,55.27777777777778
+0,THE LAST SHIP,5,2014,7.5,Young Adults,"['DRAMA', 'SUSPENSE', 'ACTION']","['foul language', 'drug use', 'sexual content', 'violence']",WB,56,42.142857142857146
+0,THE ORIGINALS,5,2014,8.2,Young Adults,"['HORROR', 'DRAMA', 'FANTASY']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'strong violence']",THE CW,92,42.09782608695652
+0,LAAKHON MEIN EK,2,2017,-1.0,Young Adults,['INTERNATIONAL'],"['foul language', 'drug use', 'sexual content', 'violence']",OML,14,27.071428571428573
+0,2 BROKE GIRLS TV SERIES 10/11,6,2012,6.7,Young Adults,['COMEDY'],"['strong foul language', 'moderate drug use', 'moderate sexuality', 'violence']",NA,138,21.594202898550726
+0,AFSOS,1,2020,-1.0,Young Adults,"['COMEDY', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",OML,8,25.5
+0,THE GRAND TOUR,4,2017,8.7,Young Adults,['UNSCRIPTED'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,40,64.175
+0,MCMAFIA,1,2018,-1.0,Teens,['DRAMA'],"['moderate foul language', 'moderate drug use', 'strong sexuality', 'moderate nudity', 'moderate violence']",NA,8,56.625
+0,LEGACIES,3,2019,-1.0,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'strong violence']",WB,33,42.0
+0,TREADSTONE,1,2019,7.0,Young Adults,['DRAMA'],"['mild foul language', 'moderate drug use', 'mild sexuality', 'strong violence']",NBCUNIVERSAL,10,43.2
+0,JOEY,1,2005,-1.0,Young Adults,['COMEDY'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'violence']",NA,24,22.041666666666668
+0,BOSCH,6,2015,8.4,Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,60,46.21666666666667
+0,AMERICAN PLAYBOY: THE HUGH HEFNER STORY,1,2017,7.5,Adults,"['DRAMA', 'DOCUMENTARY']","['strong drug use', 'moderate foul language', 'strong sexuality', 'severe nudity', 'moderate violence']",AMAZON STUDIOS,11,40.72727272727273
+0,SUITS,9,2011,8.5,Young Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'mild sexuality', 'mild violence']",NBCUNIVERSAL,135,43.318518518518516
+0,MOM,8,2014,7.2,Young Adults,['COMEDY'],"['strong drug use', 'moderate foul language', 'moderate sexuality', 'mild violence']",WB,158,20.265822784810126
+0,SUPERNATURAL,15,2006,8.4,Adults,"['HORROR', 'SUSPENSE', 'DRAMA']","['drug use', 'strong foul language', 'sexual content', 'moderate violence']",THE CW,328,41.89939024390244
+0,COMICSTAAN SEMMA COMEDY PA,1,2020,6.7,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,8,46.5
+0,FLEABAG,2,2016,8.7,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON_STUDIOS,12,25.333333333333332
+0,SHARK TANK,2,2019,-1.0,Kids,['SPECIAL INTEREST'],"['moderate foul language', 'drug use', 'mild sexuality', 'mild violence']",ABC ,45,42.86666666666667
+0,TWO AND A HALF MEN,12,2003,7.0,Young Adults,['COMEDY'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'mild violence']",WB,262,21.50381679389313
+0,MR. ROBOT,4,2015,8.6,Adults,"['SUSPENSE', 'DRAMA']","['strong drug use', 'strong foul language', 'strong sexuality', 'moderate nudity', 'moderate violence']",NBCUNIVERSAL,45,49.022222222222226
+0,WORLD’S TOUGHEST RACE: ECO-CHALLENGE FIJI,1,2020,7.7,Teens,['UNSCRIPTED'],"['foul language', 'violence']",AMAZON STUDIOS,10,47.7
+0,SHAMELESS,11,2011,8.6,Adults,"['COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",BONANZA PRODUCTIONS INC.,126,54.06349206349206
+0,MALGUDI DAYS SWAMI & FRIENDS 1,4,1987,-1.0,Older Kids,"['INTERNATIONAL', 'DRAMA']","['foul language', 'drug use', 'mild nudity', 'violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,54,22.40740740740741
+0,SCORPION,4,2015,-1.0,Teens,[],"['foul language', 'drug use', 'sexual content', 'violence']",NA,94,41.659574468085104
+0,HUNTERS,1,2020,7.2,Adults,"['ADVENTURE', 'DRAMA']","['drug use', 'foul language', 'nudity', 'violence']",AMAZON STUDIOS,10,64.5
+0,UPLOAD,1,2020,8.0,Adults,['COMEDY'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,29.6
+0,HANNA,2,2019,7.5,Young Adults,"['SUSPENSE', 'ACTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,17,48.64705882352941
+0,HOUSE,8,2005,-1.0,Adults,"['SUSPENSE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'moderate violence']",NBCUNIVERSAL,178,43.99438202247191
+0,THE PACK,1,2020,6.4,Teens,"['DOCUMENTARY', 'UNSCRIPTED']","['violence', 'drug use', 'foul language']",AMAZON STUDIOS,12,49.25
+0,CALIFORNICATION,7,2007,8.3,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",VOOT,84,27.61904761904762
+0,MASTERCHEF AUSTRALIA,10,2009,-1.0,Teens,"['SPECIAL INTEREST', 'UNSCRIPTED']","['drug use', 'foul language', 'sexual content']",FREMANTLEMEDIA AUSTRALIA,687,53.346433770014556
+0,THE MARVELOUS MRS. MAISEL,3,2017,8.7,Young Adults,"['DRAMA', 'COMEDY']","['strong foul language', 'moderate drug use', 'moderate sexuality', 'nudity', 'violence']",AMAZON STUDIOS,27,54.0
+0,LIFE IS A BEACH,3,2014,-1.0,Teens,[],['moderate drug use'],GOODTIMES,33,22.90909090909091
+0,THE WIDOW,1,2019,6.9,Young Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,46.0
+0,CARNIVAL ROW,1,2019,7.9,Young Adults,"['SUSPENSE', 'DRAMA', 'FANTASY']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,56.0
+0,PERSON OF INTEREST,5,2012,8.4,Young Adults,"['ACTION', 'DRAMA', 'SUSPENSE']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'moderate violence']",NA,103,43.90291262135922
+0,MIND THE MALHOTRAS,1,2019,-1.0,Young Adults,"['INTERNATIONAL', 'COMEDY']","['foul language', 'drug use', 'sexual content', 'violence']",APPLAUSE,9,25.11111111111111
+0,ONE MIC STAND,1,2019,6.6,Young Adults,"['COMEDY', 'ARTS, ENTERTAINMENT, AND CULTURE', 'UNSCRIPTED']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,5,30.4
+0,BLINDSPOT,5,2016,7.4,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'mild nudity', 'moderate violence']",WB,100,42.87
+0,THIS IS US,4,2017,8.7,Young Adults,['DRAMA'],"['moderate drug use', 'moderate foul language', 'moderate sexuality', 'nudity', 'mild violence']",NBC,72,43.0
+0,MAN WITH A PLAN,4,2017,-1.0,Kids,['DRAMA'],"['drug use', 'moderate foul language', 'moderate sexuality', 'violence']",CBS,69,20.81159420289855
+0,UTOPIA,1,2020,6.7,Young Adults,"['DRAMA', 'SUSPENSE']","['violence', 'sexual content', 'drug use', 'foul language']",AMAZON STUDIOS,8,50.0
+0,SEINFELD,10,1990,8.8,Teens,['COMEDY'],"['moderate foul language', 'moderate drug use', 'mild sexuality']",NA,171,24.16374269005848
+0,THE MAGICIANS,2,2016,-1.0,Young Adults,"['DRAMA', 'SUSPENSE', 'FANTASY', 'YOUNG ADULT AUDIENCE']","['strong foul language', 'moderate drug use', 'strong sexuality', 'mild nudity', 'strong violence']",NBCUNIVERSAL,26,43.65384615384615
+0,DIABLO GUARDIAN,2,2018,6.1,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,18,40.166666666666664
+0,GOOD OMENS,1,2019,8.1,Young Adults,"['COMEDY', 'FANTASY', 'DRAMA']","['strong foul language', 'moderate drug use', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,6,54.666666666666664
+0,PARKS AND RECREATION,7,2009,-1.0,Young Adults,['COMEDY'],"['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,125,21.856
+0,THE AFFAIR,5,2014,-1.0,Adults,['DRAMA'],"['strong foul language', 'strong drug use', 'strong sexuality', 'strong nudity', 'moderate violence']",VOOT,53,57.867924528301884
+0,THE WALKING DEAD: WORLD BEYOND,1,2020,4.2,Young Adults,"['HORROR', 'DRAMA']","['violence', 'sexual content', 'drug use', 'foul language']",AMC STUDIOS,10,47.7
+0,CONSTANTINE,1,2015,7.5,Young Adults,"['SUSPENSE', 'ACTION', 'SCIENCE FICTION']","['severe drug use', 'moderate foul language', 'moderate sexuality', 'strong violence']",NA,13,42.92307692307692
+0,WAKAALAT FROM HOME,1,2020,-1.0,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",RS ENTERTAINMENT,10,13.9
+0,NIKITA,4,2011,-1.0,Adults,"['ACTION', 'DRAMA']","['moderate drug use', 'moderate foul language', 'moderate sexuality', 'moderate violence']",NA,73,41.9041095890411
+0,RUSSELL PETERS: DEPORTED,1,2020,6.3,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE', 'COMEDY']","['drug use', 'moderate foul language']",AMAZON STUDIOS,2,48.5
+0,ELEMENTARY,7,2013,7.9,Young Adults,"['SUSPENSE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'moderate violence']",CBS,154,42.48051948051948
+0,THE MAN IN THE HIGH CASTLE,4,2015,8.0,Adults,"['SUSPENSE', 'DRAMA']","['strong foul language', 'moderate drug use', 'sexual content', 'mild nudity', 'strong violence']",AMAZON STUDIOS,41,53.97560975609756
+0,THE GREAT ESCAPISTS,1,2021,-1.0,Not rated,['UNSCRIPTED'],NA,NA,0,0.0
+0,KASHMIR THE STORY,1,2018,-1.0,Young Adults,[],"['foul language', 'violence']",TIMES  PVT. LTD.,6,22.0
+0,THE NIGHT MANAGER,1,2016,8.1,Adults,"['SUSPENSE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",BBC UK,6,57.666666666666664
+0,PERSON OF INTEREST,5,2012,8.4,Young Adults,"['DRAMA', 'SUSPENSE', 'ACTION']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'moderate violence']",NA,103,43.90291262135922
+0,THE MARVELOUS MRS. MAISEL,3,2017,8.7,Young Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'moderate sexuality', 'nudity', 'violence']",AMAZON STUDIOS,27,54.0
+0,MAN WITH A PLAN,4,2017,-1.0,Kids,['DRAMA'],"['drug use', 'moderate foul language', 'moderate sexuality', 'violence']",CBS,69,20.81159420289855
+0,FEAR THE WALKING DEAD,6,2015,6.9,Adults,"['DRAMA', 'HORROR']","['foul language', 'drug use', 'sexual content', 'violence']",AMC,76,45.30263157894737
+0,SUPERNATURAL,15,2006,8.4,Adults,"['HORROR', 'SUSPENSE', 'DRAMA']","['drug use', 'strong foul language', 'sexual content', 'moderate violence']",THE CW,328,41.89939024390244
+0,TWO AND A HALF MEN,12,2003,7.0,Young Adults,['COMEDY'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'mild violence']",WB,262,21.50381679389313
+0,MOM,8,2014,7.2,Young Adults,['COMEDY'],"['strong drug use', 'moderate foul language', 'moderate sexuality', 'mild violence']",WB,158,20.265822784810126
+0,THE EXPANSE,5,2019,8.5,Young Adults,['SCIENCE FICTION'],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,55,43.872727272727275
+0,THE FRESH PRINCE OF BEL-AIR,6,1991,-1.0,Teens,['COMEDY'],"['mild foul language', 'moderate drug use', 'sexual content', 'mild violence']",NA,148,22.91216216216216
+0,NCIS,18,2004,7.7,Young Adults,"['ACTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",CBS,402,43.12686567164179
+0,SEINFELD,10,1990,8.8,Teens,['COMEDY'],"['moderate foul language', 'moderate drug use', 'mild sexuality']",NA,171,24.16374269005848
+0,WILD AND FREE: FLORIANÓPOLIS,1,2020,3.5,Adults,['INTERNATIONAL'],"['sexual content', 'drug use', 'foul language', 'nudity']",AMAZON STUDIOS,16,43.1875
+0,SHIN CHAN SPIN-OFF VOL.1 ALIENS VS. SHINNOSUKE,1,2016,7.1,Older Kids,['ANIME'],"['moderate sexuality', 'mild violence']",NA,13,8.0
+0,FRINGE,5,2009,8.4,Young Adults,"['SCIENCE FICTION', 'DRAMA']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'moderate violence']",WB,100,45.27
+0,HOUSE,8,2005,-1.0,Adults,"['SUSPENSE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'moderate violence']",NBCUNIVERSAL,178,43.99438202247191
+0,THE EXORCIST,2,2016,8.0,Adults,['DRAMA'],"['moderate foul language', 'mild drug use', 'mild sexuality', 'strong violence']",FOX,20,42.7
+0,THE TICK,2,2018,7.4,Young Adults,"['COMEDY', 'ACTION']","['moderate foul language', 'drug use', 'sexual content', 'nudity', 'strong violence']",AMAZON STUDIOS,22,26.181818181818183
+0,DEXTER,8,2006,8.6,Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'severe violence']",NA,96,53.1875
+0,MADAM SECRETARY,5,2015,7.6,Teens,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",NA,110,43.20909090909091
+0,MAD MEN,7,2007,8.6,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']","LIONSGATE ENTERTAINMENT, INC.",92,47.91304347826087
+0,MR. ROBOT,4,2015,8.6,Adults,['DRAMA'],"['strong drug use', 'strong foul language', 'strong sexuality', 'moderate nudity', 'moderate violence']",NBCUNIVERSAL,45,49.022222222222226
+0,PSYCH,8,2007,-1.0,Teens,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,122,43.34426229508197
+0,STAR TREK: PICARD,1,2020,7.5,Adults,['SCIENCE FICTION'],"['foul language', 'drug use', 'sexual content', 'violence']",CBS,10,48.9
+0,REIGN,4,2014,-1.0,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'strong sexuality', 'nudity', 'strong violence']",NA,78,41.65384615384615
+0,THE TERROR,2,2018,-1.0,Young Adults,"['DRAMA', 'SUSPENSE', 'ADVENTURE', 'HISTORICAL']","['moderate foul language', 'moderate drug use', 'nudity', 'strong violence']",AMC STUDIOS INTERNATIONAL B.V,20,45.75
+0,PARKS AND RECREATION,7,2009,-1.0,Young Adults,['COMEDY'],"['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,125,21.856
+0,BLINDSPOT,5,2016,7.4,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'mild nudity', 'moderate violence']",WB,100,42.87
+0,BLUE BLOODS,11,2011,7.6,Young Adults,['DRAMA'],"['strong foul language', 'mild sexuality', 'moderate violence']",CBS,222,42.166666666666664
+0,ABSENTIA,3,2018,7.3,Young Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,30,42.56666666666667
+0,THE GOOD WIFE,7,2010,8.3,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'sexual content', 'violence']",NA,156,43.56410256410256
+0,BOSCH,6,2015,8.4,Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,60,46.21666666666667
+0,FARGO,4,2014,-1.0,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MGM,41,53.073170731707314
+0,DECEPTION,1,2018,-1.0,Teens,['DRAMA'],"['foul language', 'drug use', 'mild sexuality', 'moderate violence']",ABC,13,42.92307692307692
+0,SHAMELESS,11,2011,8.6,Adults,"['DRAMA', 'COMEDY']","['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",WB,126,54.06349206349206
+0,JESTINATION UNKNOWN,1,2019,6.1,Young Adults,"['UNSCRIPTED', 'COMEDY', 'ARTS, ENTERTAINMENT, AND CULTURE']","['strong foul language', 'moderate drug use', 'mild sexuality', 'violence']",AMAZON STUDIOS,6,36.833333333333336
+0,THE AFFAIR,5,2014,-1.0,Adults,['DRAMA'],"['strong foul language', 'strong drug use', 'strong sexuality', 'strong nudity', 'moderate violence']",VOOT,53,57.867924528301884
+0,THE GRAND TOUR,4,2017,8.7,Young Adults,"['UNSCRIPTED', 'SPORTS']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,40,64.175
+0,CHICAGO MED,4,2016,7.5,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,83,42.204819277108435
+0,THE GYMKHANA FILES,1,2018,8.0,Young Adults,"['SPORTS', 'DOCUMENTARY', 'UNSCRIPTED', 'SPECIAL INTEREST']","['strong foul language', 'violence']",AMAZON STUDIOS,9,39.0
+0,ALL AMERICAN,3,2019,-1.0,Young Adults,"['DRAMA', 'SPORTS']",NA,WB,33,42.0
+0,AMERICAN GODS,3,2017,7.8,Adults,"['FANTASY', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",FREMANTLE,18,55.27777777777778
+0,SECRET NATURE,1,2004,-1.0,Young Adults,[],['violence'],SOUTHERN STAR,12,50.0
+0,ELEMENTARY,7,2013,7.9,Young Adults,"['SUSPENSE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'moderate violence']",CBS,154,42.48051948051948
+0,TAKEN,2,2017,-1.0,Young Adults,"['DRAMA', 'ACTION']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,26,42.61538461538461
+0,SHAKTIMAAN,5,1998,-1.0,Teens,['INTERNATIONAL'],"['moderate drug use', 'moderate foul language', 'mild violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,100,41.69
+0,BEST OF THE BEST,2,2013,-1.0,Teens,[],"['foul language', 'mild sexuality']",NA,26,22.73076923076923
+0,MASTERS OF SEX,4,2013,-1.0,Young Adults,['FANTASY'],"['strong foul language', 'moderate drug use', 'strong sexuality', 'severe nudity', 'violence']",SHOWTIME ,47,57.255319148936174
+0,GOD FRIENDED ME,2,2019,-1.0,Kids,"['DRAMA', 'COMEDY']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'violence']",WB,42,42.73809523809524
+0,DOWNTON ABBEY,6,2011,8.7,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",NA,57,54.175438596491226
+0,THIS IS US,4,2017,8.7,Young Adults,['DRAMA'],"['moderate drug use', 'moderate foul language', 'moderate sexuality', 'nudity', 'mild violence']",FOX,72,43.0
+0,LORE,2,2017,6.7,Young Adults,"['HORROR', 'DRAMA']","['foul language', 'moderate drug use', 'sexual content', 'mild nudity', 'strong violence']",AMAZON STUDIOS,13,41.61538461538461
+0,CLAWS,3,2017,7.4,Adults,['DRAMA'],"['strong drug use', 'strong foul language', 'strong sexuality', 'strong nudity', 'severe violence']",TNT,30,46.5
+0,CLASSIC POPEYE,2,1960,-1.0,Teens,['ANIMATION'],"['moderate drug use', 'moderate violence']",FILMRISE,55,23.01818181818182
+0,TRUTH SEEKERS,1,2020,7.1,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,27.875
+0,KILLING EVE,3,2018,-1.0,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",IMG,24,41.958333333333336
+0,INTO THE BADLANDS,3,2015,8.0,Young Adults,"['ACTION', 'SCIENCE FICTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMC,32,42.8125
+0,DIABLO GUARDIAN,2,2018,6.1,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,18,40.166666666666664
+0,HOMECOMING,2,2018,7.5,Young Adults,"['SUSPENSE', 'MILITARY AND WAR', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,18,30.833333333333332
+0,BANG BAAJA BAARAAT,1,2015,8.0,Adults,"['DRAMA', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'violence']",NA,1,86.0
+0,SKULLS & ROSES,1,2019,4.2,Adults,"['ACTION', 'ROMANCE', 'UNSCRIPTED']","['drug use', 'strong foul language', 'strong sexuality', 'moderate nudity', 'moderate violence']",AMAZON STUDIOS,11,56.90909090909091
+0,MANIFEST,2,2019,-1.0,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'sexual content', 'moderate violence']",WB,29,42.793103448275865
+0,THE PURGE,2,2018,-1.0,Adults,"['SUSPENSE', 'HORROR', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,21,41.333333333333336
+0,EL JUEGO DE LAS LLAVES,1,2019,-1.0,Adults,[],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,31.0
+0,ONE TREE HILL,9,2004,-1.0,Young Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",NA,188,42.148936170212764
+0,MID WICKET TALES WITH NASEERUDDIN SHAH,1,2016,-1.0,Teens,[],['violence'],IN10 MEDIA PVT. LTD.,26,39.76923076923077
+0,BATES MOTEL,5,2013,-1.0,Young Adults,"['HORROR', 'DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,50,43.3
+0,JAMES MAY: OUR MAN IN JAPAN,1,2020,8.4,Adults,['DOCUMENTARY'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,6,49.5
+0,CALIFORNICATION,7,2007,8.3,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",VOOT,84,27.61904761904762
+0,THE LAST NARC,1,2020,8.7,Young Adults,['UNSCRIPTED'],"['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,4,46.25
+0,FORENSIC FILES,20,1998,-1.0,Young Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,368,22.03804347826087
+0,LETHAL WEAPON,3,2017,7.9,Young Adults,"['ACTION', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",WB,55,43.836363636363636
+0,TALES FROM THE LOOP,1,2020,7.5,Adults,['SCIENCE FICTION'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,53.625
+0,PLANET EARTH II,1,2016,-1.0,Teens,['DOCUMENTARY'],NA,BBC 1,6,58.333333333333336
+0,LIFE,2,2007,8.3,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",NA,32,42.9375
+0,VELLA RAJA (TAMIL),1,2018,-1.0,Adults,"['ACTION', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'violence']",DREAM WARRIOR,10,23.8
+0,THE HANDMAID'S TALE (SERIES),3,2017,8.4,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MGM,36,51.69444444444444
+0,THE MAGICIANS,2,2016,-1.0,Young Adults,"['DRAMA', 'FANTASY', 'SUSPENSE']","['strong foul language', 'moderate drug use', 'strong sexuality', 'mild nudity', 'strong violence']",NBCUNIVERSAL,26,43.65384615384615
+0,GRIMM,6,2012,-1.0,Young Adults,"['ACTION', 'ADVENTURE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,123,42.97560975609756
+0,HEROES,4,2007,-1.0,Young Adults,"['SCIENCE FICTION', 'ACTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBC UNIVERSAL,78,43.15384615384615
+0,THE MINDY PROJECT,6,2013,7.4,Young Adults,"['COMEDY', 'ROMANCE']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,117,22.632478632478634
+0,CAROLINA MARÍN,1,2020,-1.0,Teens,"['SPORTS', 'SPECIAL INTEREST', 'DOCUMENTARY']","['foul language', 'drug use', 'violence']",BUENDÍA ESTUDIOS,4,33.5
+0,CITIZEN KHAN,5,2012,-1.0,Older Kids,['COMEDY'],"['foul language', 'sexual content']",BBC1,34,28.147058823529413
+0,GANGSTARS (TELUGU),1,2018,-1.0,Teens,"['SUSPENSE', 'DRAMA', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'violence']",SILLY MONKS ENTERTAINMENT & EARLY MONSOON TALES,13,24.53846153846154
+0,I LOVE DICK,1,2017,6.3,Adults,['COMEDY'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,25.875
+0,AMERICAN GODS - INTERNATIONAL RELEASE,3,2017,7.8,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",FREMANTLE,18,55.333333333333336
+0,CHUCK,5,2008,-1.0,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",NA,91,42.94505494505494
+0,SIYAASAT,1,2015,-1.0,Teens,[],['violence'],IN10 MEDIA PVT. LTD.,42,44.95238095238095
+0,GOLIATH,3,2016,8.2,Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'strong sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,24,52.708333333333336
+0,COVERT AFFAIRS,5,2010,-1.0,Teens,"['ACTION', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,75,43.13333333333333
+0,CASUAL,4,2015,-1.0,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']","LIONSGATE ENTERTAINMENT, INC.",44,29.045454545454547
+0,MALGUDI DAYS SWAMI & FRIENDS 1,4,1987,-1.0,Older Kids,['INTERNATIONAL'],"['foul language', 'drug use', 'mild nudity', 'violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,54,22.40740740740741
+0,THE BAKER AND THE BEAUTY,2,2014,-1.0,Teens,"['INTERNATIONAL', 'ROMANCE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'violence']",NA,20,36.75
+0,THE LOST WORLD,3,2000,-1.0,Teens,[],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MULTICOM ENTERTAINMENT GROUP (MEG),66,43.666666666666664
+0,EL CANDIDATO,1,2020,7.6,Adults,['ACTION'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,53.1
+0,LIFE IS A BEACH,3,2014,-1.0,Teens,[],['moderate drug use'],GOODTIMES,33,22.90909090909091
+0,HARMONY WITH A R RAHMAN,1,2018,-1.0,Kids,"['UNSCRIPTED', 'INTERNATIONAL', 'MUSIC VIDEOS AND CONCERTS', 'DOCUMENTARY']",NA,KAVITHALAYAA PRODUCTIONS,6,39.666666666666664
+0,JAMES MAY: OH COOK,1,2020,7.8,Teens,['UNSCRIPTED'],['drug use'],NA,7,29.285714285714285
+0,PSYCH,8,2007,-1.0,Teens,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,122,43.34426229508197
+0,CHUCK,5,2008,-1.0,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",NA,91,42.94505494505494
+0,THE FRESH PRINCE OF BEL-AIR,6,1991,-1.0,Teens,['COMEDY'],"['mild foul language', 'moderate drug use', 'sexual content', 'mild violence']",NA,148,22.91216216216216
+0,FAUJI - HINDI,1,1989,-1.0,Young Adults,[],"['foul language', 'drug use', 'violence']",MADHU ENTERTAINMENT & MEDIA LTD,13,22.923076923076923
+0,ABSENTIA,3,2018,7.3,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,30,42.56666666666667
+0,BOSCH,6,2015,8.4,Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,60,46.21666666666667
+0,LETHAL WEAPON,3,2017,7.9,Young Adults,"['ACTION', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",WB,55,43.836363636363636
+0,NCIS,18,2004,7.7,Young Adults,"['ACTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",CBS,402,43.12686567164179
+0,12 MONKEYS,3,2015,7.7,Not rated,"['ACTION', 'SCIENCE FICTION', 'DRAMA']",NA,NA,36,43.138888888888886
+0,THE AFFAIR,5,2014,-1.0,Adults,['DRAMA'],"['strong foul language', 'strong drug use', 'strong sexuality', 'strong nudity', 'moderate violence']",VOOT,53,57.867924528301884
+0,PENNY DREADFUL,3,2014,8.2,Adults,"['DRAMA', 'HORROR']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",NA,27,54.148148148148145
+0,UNDONE,1,2019,8.2,Young Adults,"['DRAMA', 'ANIMATION']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,8,22.875
+0,DOCTOR WHO,13,2005,-1.0,Kids,"['SCIENCE FICTION', 'YOUNG ADULT AUDIENCE']","['foul language', 'drug use', 'violence']",BBC1,154,47.48701298701299
+0,FAMOUS IN LOVE,2,2017,6.9,Young Adults,"['ROMANCE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NA,20,41.6
+0,FORENSIC FILES,20,1998,-1.0,Young Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,368,22.03804347826087
+0,SHAMELESS,11,2011,8.6,Adults,"['COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",WB,126,54.06349206349206
+0,THE GOOD WIFE,7,2010,8.3,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'sexual content', 'violence']",NA,156,43.56410256410256
+0,A GURLS WURLD,1,2011,-1.0,Older Kids,['YOUNG ADULT AUDIENCE'],['foul language'],SOUTHERN STAR ENTERTAINMENT,26,24.0
+0,CALIFORNICATION,7,2007,8.3,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",VOOT,84,27.61904761904762
+0,VINLAND SAGA,1,2019,-1.0,Adults,['ANIME'],"['moderate foul language', 'drug use', 'nudity', 'strong violence']","VINLAND SAGA PROJECT (TWIN ENGINE INC. , PRODUCTION I.G., INC. , WIT STUDIO,INC. , KODANSHA )",24,25.166666666666668
+0,JOHNNY BRAVO,4,1998,7.2,Older Kids,['ANIMATION'],NA,NA,132,8.742424242424242
+0,STATION 19,4,2018,6.6,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",ABC STUDIOS,48,42.75
+0,THE TICK,2,2018,7.4,Young Adults,"['COMEDY', 'ACTION']","['moderate foul language', 'drug use', 'sexual content', 'nudity', 'strong violence']",AMAZON STUDIOS,22,26.181818181818183
+0,DOWNTON ABBEY,6,2011,8.7,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",NA,57,54.175438596491226
+0,THE PURGE,2,2018,-1.0,Adults,"['SUSPENSE', 'HORROR', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,21,41.333333333333336
+0,FRINGE,5,2009,8.4,Young Adults,"['SCIENCE FICTION', 'DRAMA']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'moderate violence']",WB,100,45.27
+0,COVERT AFFAIRS,5,2010,-1.0,Teens,"['DRAMA', 'ACTION']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,75,43.13333333333333
+0,NIKITA,4,2011,-1.0,Adults,"['DRAMA', 'ACTION']","['moderate drug use', 'moderate foul language', 'moderate sexuality', 'moderate violence']",NA,73,41.9041095890411
+0,ONE TREE HILL,9,2004,-1.0,Young Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",NA,188,42.148936170212764
+0,DEXTER,8,2006,8.6,Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'severe violence']",NA,96,53.1875
+0,STARTUP,3,2016,8.0,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",CRACKLE.COM,30,44.266666666666666
+0,CLAWS,3,2017,7.4,Adults,"['COMEDY', 'ACTION', 'DRAMA']","['strong drug use', 'strong foul language', 'strong sexuality', 'strong nudity', 'severe violence']",TNT,30,46.5
+0,THE MAN IN THE HIGH CASTLE,4,2015,8.0,Adults,"['DRAMA', 'SUSPENSE']","['strong foul language', 'moderate drug use', 'sexual content', 'mild nudity', 'strong violence']",AMAZON STUDIOS,41,53.97560975609756
+0,GANGSTARS (HINDI),1,2018,-1.0,Young Adults,"['DRAMA', 'INTERNATIONAL']","['foul language', 'drug use', 'violence']",SILLY MONKS ENTERTAINMENT & EARLY MONSOON TALES,13,24.53846153846154
+0,PATRIOT,2,2017,8.3,Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,18,47.0
+0,PLANET EARTH : SET 01,1,2006,-1.0,Teens,['DOCUMENTARY'],"['foul language', 'sexual content', 'violence']",BBC1,5,48.8
+0,THE MINDY PROJECT,6,2013,7.4,Young Adults,"['ROMANCE', 'COMEDY']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,117,22.632478632478634
+0,CSI: CRIME SCENE INVESTIGATION,4,2001,-1.0,Young Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",CBS,92,43.91304347826087
+0,HOMECOMING,2,2018,7.5,Young Adults,"['SUSPENSE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,18,30.833333333333332
+0,LIFE IS A BEACH,3,2014,-1.0,Teens,[],['moderate drug use'],GOODTIMES,33,22.90909090909091
+0,REIGN,4,2014,-1.0,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'strong sexuality', 'nudity', 'strong violence']",NA,78,41.65384615384615
+0,ELEMENTARY,7,2013,7.9,Young Adults,"['SUSPENSE', 'DRAMA']","['moderate foul language', 'moderate drug use', 'moderate sexuality', 'moderate violence']",CBS,154,42.48051948051948
+0,LUTHER,5,2010,-1.0,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",BBC1,20,53.5
+0,THE TERROR,2,2018,-1.0,Young Adults,"['DRAMA', 'HISTORICAL']","['moderate foul language', 'moderate drug use', 'nudity', 'strong violence']",AMC STUDIOS INTERNATIONAL B.V,20,45.75
+0,FARGO,4,2014,-1.0,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MGM,41,53.073170731707314
+0,AMERICAN WOMAN,1,2018,-1.0,Young Adults,"['DRAMA', 'COMEDY']","['foul language', 'drug use', 'sexual content', 'violence']",WARNER BROS.,11,21.454545454545453
+0,TAKE US HOME: LEEDS UNITED,2,2019,8.1,Young Adults,['DOCUMENTARY'],"['drug use', 'foul language', 'violence']",THE CITY TALKING,8,44.75
+0,JEAN CLAUDE VAN JOHNSON,1,2017,7.6,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,6,30.666666666666668
+0,BATES MOTEL,5,2013,-1.0,Young Adults,"['SUSPENSE', 'HORROR', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,50,43.3
+0,THE HANDMAID'S TALE (SERIES),3,2017,8.4,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MGM,36,51.69444444444444
+0,CHERNOBYL: AFTERMATH,1,2016,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",VALERY TSARKOV,4,47.75
+0,YES MINISTER: SPECIALS,4,1980,-1.0,Teens,['COMEDY'],NA,BBC2,22,30.545454545454547
+0,SNEAKY PETE,3,2017,8.1,Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,30,49.63333333333333
+0,GOLIATH,3,2016,8.2,Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'strong sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,24,52.708333333333336
+0,HAPPY MARRIAGE!?,1,2018,-1.0,Teens,"['INTERNATIONAL', 'DRAMA', 'ROMANCE']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,36.166666666666664
+0,CITIZEN KHAN,5,2012,-1.0,Older Kids,['COMEDY'],"['foul language', 'sexual content']",BBC1,34,28.147058823529413
+0,MALGUDI DAYS SWAMI & FRIENDS 1,4,1987,-1.0,Older Kids,['INTERNATIONAL'],"['foul language', 'drug use', 'mild nudity', 'violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,54,22.40740740740741
+0,"ROSWELL, NEW MEXICO",2,2019,-1.0,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",WB,26,42.0
+0,GOING VIRAL PVT. LTD.,1,2017,-1.0,Young Adults,"['INTERNATIONAL', 'COMEDY']","['foul language', 'drug use', 'sexual content', 'violence']",OML,8,26.75
+0,NORTH POLE ICE AIRPORT,1,2012,-1.0,Young Adults,[],NA,DARLOW SMITHSON PRODUCTIONS,3,45.0
+0,DORORO,1,2019,-1.0,Adults,['ANIME'],"['moderate foul language', 'drug use', 'sexual content', 'moderate violence']",TWINENGINE,24,24.0
+0,WHISKEY CAVALIER,1,2019,-1.0,Young Adults,"['ACTION', 'COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",WB,13,42.92307692307692
+0,BEST OF AIB,1,2014,8.2,Young Adults,"['INTERNATIONAL', 'COMEDY']",NA,OML,7,8.285714285714286
+0,HIGHWAY ON MY PLATE,1,2013,-1.0,Adults,[],NA,GOODTIMES,13,20.692307692307693
+0,PRETTY LITTLE LIARS: THE PERFECTIONISTS,1,2019,-1.0,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",WB,10,42.1
+0,BLUE BLOODS,11,2011,7.6,Young Adults,['DRAMA'],"['strong foul language', 'mild sexuality', 'moderate violence']",CBS,222,42.166666666666664
+0,THELLA RAJU (TELUGU),1,2018,-1.0,Young Adults,"['INTERNATIONAL', 'ACTION']","['foul language', 'drug use', 'violence']",DREAM WARRIOR,10,23.8
+0,FOREVER,1,2018,7.2,Young Adults,"['COMEDY', 'ROMANCE']","['strong foul language', 'moderate drug use', 'sexual content', 'violence']",AMAZON STUDIOS,8,29.75
+0,MAD MEN,7,2007,8.6,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']","LIONSGATE ENTERTAINMENT, INC.",92,47.91304347826087
+0,"YES, PRIME MINISTER",2,1986,-1.0,Teens,"['INTERNATIONAL', 'COMEDY']",NA,BBC2,16,29.5
+0,YOU ARE WANTED,2,2017,-1.0,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,49.0
+0,THE DETOUR,4,2016,7.7,Adults,"['WESTERN', 'ACTION', 'DRAMA']",NA,WB,42,21.523809523809526
+0,PREACHER,4,2016,8.0,Adults,"['ACTION', 'SCIENCE FICTION', 'DRAMA', 'SUSPENSE']","['drug use', 'foul language', 'violence']",AMC STUDIOS,43,44.76744186046512
+0,DYNASTIES,1,2018,-1.0,Teens,['DOCUMENTARY'],NA,BBC1,5,58.0
+0,INSIDE THE HUMAN BODY,1,2011,-1.0,Young Adults,['DOCUMENTARY'],['violence'],BBC1,4,49.5
+0,HIDDEN INDIA,1,2015,-1.0,Teens,['DOCUMENTARY'],['violence'],BBC2,3,49.333333333333336
+0,GRIMM,6,2012,-1.0,Young Adults,"['ADVENTURE', 'DRAMA', 'ACTION']","['foul language', 'drug use', 'sexual content', 'violence']",NBCUNIVERSAL,123,42.97560975609756
+0,MARVEL'S RUNAWAYS,3,2018,-1.0,Young Adults,"['SCIENCE FICTION', 'YOUNG ADULT AUDIENCE', 'DRAMA']","['moderate drug use', 'strong foul language', 'moderate sexuality', 'violence']",MARVEL TELEVISION,33,48.27272727272727
+0,THE LOOMING TOWER,1,2018,-1.0,Adults,"['SUSPENSE', 'DRAMA']",NA,HULU,10,49.2
+0,HEROES,4,2007,-1.0,Young Adults,"['SCIENCE FICTION', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NBC UNIVERSAL,78,43.15384615384615
+0,THIS GIANT BEAST THAT IS THE GLOBAL ECONOMY,1,2019,7.8,Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,8,42.375
+0,MIRACLES OF NATURE,2,2011,-1.0,Teens,[],NA,NA,26,26.0
+0,LOCKOUT,1,2016,-1.0,Young Adults,[],NA,BENIAMINO CATENA,8,89.25
+0,SHAKTIMAAN,5,1998,-1.0,Teens,['INTERNATIONAL'],"['moderate drug use', 'moderate foul language', 'mild violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,100,41.69
+0,PARENTHOOD,6,2010,-1.0,Young Adults,"['DRAMA', 'COMEDY']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,103,43.029126213592235
+0,RAY DONOVAN,6,2013,8.3,Adults,['DRAMA'],NA,SHOWTIME,72,53.236111111111114
+0,THE GOOD FIGHT,3,2017,8.3,Adults,['DRAMA'],NA,CBS,33,51.06060606060606
+0,THE REMIX,1,2018,7.0,Teens,"['UNSCRIPTED', 'INTERNATIONAL']","['foul language', 'sexual content']",AMAZON STUDIOS,11,53.90909090909091
+0,LE MANS,1,2017,7.4,Young Adults,"['DOCUMENTARY', 'SPORTS']","['foul language', 'violence']",AMAZON STUDIOS,6,25.166666666666668
+0,TYOHAAR KI THAALI,2,2018,-1.0,Older Kids,[],NA,IN10 MEDIA PRIVATE LTD.,51,24.254901960784313
+0,MAFIA UNDERCOVER,2,2016,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",TAODUE FILM,8,98.5
+0,RED OAKS,3,2015,7.9,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,26,26.23076923076923
+0,LOL: AUSTRALIA,1,2020,6.1,Adults,"['SPECIAL INTEREST', 'UNSCRIPTED', 'COMEDY', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",NA,6,28.166666666666668
+0,JIMMY O. YANG: GOOD DEAL,1,2020,7.1,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",['foul language'],AMAZON STUDIOS,2,43.5
+0,VELLA RAJA (HINDI),1,2018,-1.0,Adults,"['ACTION', 'INTERNATIONAL']","['foul language', 'drug use', 'violence']",DREAM WARRIOR,10,23.8
+0,Z: THE BEGINNING OF EVERYTHING,1,2017,7.1,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,27.3
+0,RAMY,2,2019,8.1,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']","LIONSGATE ENTERTAINMENT, INC.",20,28.2
+0,SPLITTING UP TOGETHER,2,2018,-1.0,Teens,['COMEDY'],NA,WB,26,21.615384615384617
+0,THE ROMANOFFS,1,2018,7.0,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,79.875
+0,HOUSE OF LIES,5,2012,7.4,Adults,"['COMEDY', 'DRAMA']",NA,NA,58,28.155172413793103
+0,CASUAL,4,2015,-1.0,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']","LIONSGATE ENTERTAINMENT, INC.",44,29.045454545454547
+0,PRIME REWIND: INSIDE THE BOYS,1,2020,8.7,Adults,['TALK SHOW AND VARIETY'],"['violence', 'sexual content', 'drug use', 'foul language', 'nudity']",AMAZON STUDIOS,10,27.2
+0,"MIDNIGHT, TEXAS",2,2017,-1.0,Adults,['DRAMA'],NA,NBCUNIVERSAL,19,42.8421052631579
+0,EXPERIMENTS,1,2019,-1.0,Young Adults,[],NA,NA,12,26.083333333333332
+0,BANANA FISH,1,2018,-1.0,Young Adults,['ANIME'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",TWINENGINE,24,23.333333333333332
+0,BLADE OF THE IMMORTAL,1,2020,-1.0,Adults,['ANIME'],"['moderate foul language', 'moderate drug use', 'moderate sexuality', 'mild nudity', 'strong violence']","""BLADE OF THE IMMORTAL"" PRODUCTION COMMITTEE",24,24.0
+0,MOZART IN THE JUNGLE,4,2014,8.2,Adults,"['DRAMA', 'COMEDY']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,40,27.775
+0,TRIAL & ERROR,2,2017,8.0,Teens,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",WARNER BROS.,21,23.857142857142858
+0,MAKING THE CUT,1,2020,-1.0,Teens,"['UNSCRIPTED', 'SPECIAL INTEREST']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,10,57.6
+0,PHILIP K. DICK'S ELECTRIC DREAMS,1,2018,7.3,Young Adults,['SCIENCE FICTION'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,49.7
+0,TED BUNDY: FALLING FOR A KILLER,1,2020,7.9,Young Adults,['DOCUMENTARY'],"['foul language', 'violence']",AMAZON STUDIOS,5,46.2
+0,GRAND PRIX DRIVER,1,2018,-1.0,Kids,['SPORTS'],"['sexual content', 'violence']",AMAZON STUDIOS,4,28.0
+0,THE HUNT,1,2015,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,7,57.0
+0,EL PRESIDENTE,1,2020,7.2,Adults,"['DRAMA', 'ACTION', 'INTERNATIONAL', 'SPORTS']","['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,56.375
+0,THE LOST WORLD,3,2000,-1.0,Teens,[],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MULTICOM ENTERTAINMENT GROUP (MEG),66,43.666666666666664
+0,CLASSIC POPEYE,2,1960,-1.0,Teens,['ANIMATION'],"['moderate drug use', 'moderate violence']",FILMRISE,55,23.01818181818182
+0,TRANSPARENT,5,2014,7.8,Adults,"['DRAMA', 'COMEDY', 'LGBTQ']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,42,29.714285714285715
+0,FROZEN PLANET,1,2011,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,6,58.166666666666664
+0,SNEAKY PETE,3,2017,8.1,Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'moderate sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,30,49.63333333333333
+0,MAD MEN,7,2007,8.6,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']","LIONSGATE ENTERTAINMENT, INC.",92,47.91304347826087
+0,EL CORAZÓN DE SERGIO RAMOS,1,2019,5.2,Young Adults,"['UNSCRIPTED', 'SPORTS']","['strong foul language', 'moderate drug use', 'mild nudity', 'mild violence']",AMAZON STUDIOS,8,24.375
+0,SPLITTING UP TOGETHER,2,2018,-1.0,Teens,['COMEDY'],NA,WB,26,21.615384615384617
+0,NOS4A2,1,2019,-1.0,Adults,['FANTASY'],NA,AMC STUDIOS INTERNATIONAL B.V,10,45.9
+0,WORLD CLASS,1,2011,-1.0,Teens,['DOCUMENTARY'],NA,BIGMEDIA,26,23.0
+0,PARENTHOOD,6,2010,-1.0,Young Adults,"['COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",NBCUNIVERSAL,103,43.029126213592235
+0,FERNANDO,1,2020,7.6,Teens,['DOCUMENTARY'],"['foul language', 'violence']",MEDIAPRO,5,48.6
+0,BEST OF THE BEST,2,2013,-1.0,Teens,[],"['foul language', 'mild sexuality']",NA,26,22.73076923076923
+0,SILK STALKINGS,4,1992,-1.0,Adults,[],NA,FILMRISE,88,45.90909090909091
+0,WOTAKOI: LOVE IS HARD FOR OTAKU,1,2018,-1.0,Young Adults,['ANIME'],"['mild foul language', 'moderate drug use', 'mild sexuality', 'mild violence']","WOTAKOI COMMITTEE (ANIPLEX INC., FUJI TELEVISION , INC., ICHIJINSHA INC., DENTSU, INC.)",11,23.0
+0,DOCTOR WHO,13,2005,-1.0,Kids,"['YOUNG ADULT AUDIENCE', 'SCIENCE FICTION']","['foul language', 'drug use', 'violence']",BBC1,154,47.48701298701299
+0,PENNY DREADFUL,3,2014,8.2,Adults,"['HORROR', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",NA,27,54.148148148148145
+0,TAKE US HOME: LEEDS UNITED,2,2019,8.1,Young Adults,['DOCUMENTARY'],"['drug use', 'foul language', 'violence']",THE CITY TALKING,8,44.75
+0,YES MINISTER: SPECIALS,4,1980,-1.0,Teens,['COMEDY'],NA,BBC2,22,30.545454545454547
+0,FORENSIC FILES,20,1998,-1.0,Young Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,368,22.03804347826087
+0,12 MONKEYS,3,2015,7.7,Not rated,"['SCIENCE FICTION', 'ACTION', 'DRAMA']",NA,NA,36,43.138888888888886
+0,LORENA,1,2019,7.2,Young Adults,['DOCUMENTARY'],NA,AMAZON STUDIOS,4,63.0
+0,SHAITAAN HAVELI,1,2018,-1.0,Young Adults,"['INTERNATIONAL', 'COMEDY']",NA,OML,8,24.375
+0,STARTUP,3,2016,8.0,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",CRACKLE.COM,30,44.266666666666666
+0,GOOD GIRLS REVOLT,1,2016,8.2,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,51.6
+0,HOUSE OF LIES,5,2012,7.4,Adults,"['DRAMA', 'COMEDY']",NA,NA,58,28.155172413793103
+0,WORLD'S BUSIEST CITIES,1,2017,-1.0,Teens,['DOCUMENTARY'],NA,BBC2,4,58.5
+0,RICHARD HAMMOND'S ENGINEERING CONNECTIONS,1,2011,-1.0,Older Kids,[],NA,DARLOW SMITHSON,6,50.0
+0,FAMOUS IN LOVE,2,2017,6.9,Young Adults,"['ROMANCE', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",NA,20,41.6
+0,ANGIE TRIBECA,4,2016,7.0,Young Adults,['COMEDY'],NA,TBS,40,21.05
+0,LORE,2,2017,6.7,Young Adults,"['HORROR', 'DRAMA']","['foul language', 'moderate drug use', 'sexual content', 'mild nudity', 'strong violence']",AMAZON STUDIOS,13,41.61538461538461
+0,COUPLING,4,2000,-1.0,Young Adults,['COMEDY'],NA,BBC2,28,28.928571428571427
+0,ONE TREE HILL,9,2004,-1.0,Young Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",NA,188,42.148936170212764
+0,GUILT,1,2016,6.0,Young Adults,['DRAMA'],NA,NA,10,42.4
+0,THE GOOD FIGHT,3,2017,8.3,Adults,['DRAMA'],NA,CBS,33,51.06060606060606
+0,CASUAL,4,2015,-1.0,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']","LIONSGATE ENTERTAINMENT, INC.",44,29.045454545454547
+0,TRAVEL IN STYLE,3,2013,-1.0,Teens,['SPECIAL INTEREST'],NA,BIGMEDIA,39,23.307692307692307
+0,DEUTSCHLAND,3,2015,8.1,Adults,"['DRAMA', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",SUNDANCE,28,47.214285714285715
+0,ENGINUITY,2,2015,-1.0,Young Adults,[],NA,NA,26,24.0
+0,THE SIMPLE LIFE,4,2004,-1.0,Young Adults,[],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'violence']",20TH CENTURY FOX TELEVISION,46,21.608695652173914
+0,NIKITA,4,2011,-1.0,Adults,"['DRAMA', 'ACTION']","['moderate drug use', 'moderate foul language', 'moderate sexuality', 'moderate violence']",NA,73,41.9041095890411
+0,SAVAGE X FENTY SHOW,2,2019,7.6,Adults,['UNSCRIPTED'],"['foul language', 'violence']",AMAZON STUDIOS,4,43.25
+0,LUTHER,5,2010,-1.0,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",BBC1,20,53.5
+0,21 JUMP STREET,5,1987,-1.0,Young Adults,[],"['foul language', 'drug use', 'violence']",FILMRISE,103,46.24271844660194
+0,DEXTER,8,2006,8.6,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",CBS TELEVISION STUDIOS,96,53.21875
+0,ALL OR NOTHING: NEW ZEALAND ALL BLACKS,1,2018,8.2,Young Adults,"['UNSCRIPTED', 'SPORTS', 'DOCUMENTARY']","['moderate drug use', 'strong foul language', 'violence']",AMAZON STUDIOS,6,43.333333333333336
+0,AMERICAN GODS - INTERNATIONAL RELEASE,3,2017,7.8,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,18,55.333333333333336
+0,CONVICTION,1,2009,-1.0,Adults,[],NA,BENOÎT VALÈRE,20,47.15
+0,GRAND BLUE DREAMING,1,2018,-1.0,Young Adults,['ANIME'],"['moderate drug use', 'moderate foul language', 'sexual content', 'nudity', 'violence']",GRAND BLUE DREAMING PROJECT,12,24.0
+0,PREACHER,4,2016,8.0,Adults,"['ACTION', 'SCIENCE FICTION', 'DRAMA', 'SUSPENSE']","['drug use', 'foul language', 'violence']",AMC ,43,44.76744186046512
+0,CLAWS,3,2017,7.4,Adults,"['COMEDY', 'DRAMA']","['strong drug use', 'strong foul language', 'strong sexuality', 'strong nudity', 'severe violence']",WB,30,46.5
+0,TOO OLD TO DIE YOUNG,1,2019,-1.0,Adults,[],NA,AMAZON STUDIOS,10,75.4
+0,LIVING BIBLICALLY,1,2018,-1.0,Young Adults,['COMEDY'],NA,WARNER BROS.,13,21.0
+0,GET OUT,2,2014,-1.0,Young Adults,['DOCUMENTARY'],"['moderate drug use', 'moderate foul language']",BIGMEDIA,26,23.76923076923077
+0,THE BAKER AND THE BEAUTY,2,2014,-1.0,Teens,"['DRAMA', 'INTERNATIONAL', 'ROMANCE']","['moderate foul language', 'moderate drug use', 'mild sexuality', 'nudity', 'violence']",NA,20,36.75
+0,THE DETOUR,4,2016,7.7,Adults,"['ACTION', 'WESTERN', 'DRAMA']",NA,WB,42,21.523809523809526
+0,THE TRIAL: A MURDER IN THE FAMILY,1,2017,-1.0,Young Adults,[],NA,DRAGONFLY,5,48.0
+0,BOARDING SCHOOL JULIET,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'sexual content', 'violence']",BOARDING SCHOOL JULIET PRODUCTION COMMITTEE,12,24.0
+0,THIS IS FOOTBALL,1,2019,-1.0,Young Adults,[],"['foul language', 'violence']",AMAZON STUDIOS,6,58.0
+0,SHAKTIMAAN,5,1998,-1.0,Teens,['INTERNATIONAL'],"['moderate drug use', 'moderate foul language', 'mild violence']",ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,100,41.69
+0,THE IDOLM@STER.KR,1,2017,-1.0,Teens,['YOUNG ADULT AUDIENCE'],"['moderate foul language', 'mild violence']",IMX / BANDAI NAMCO ENTERTAINMENT INC,24,45.833333333333336
+0,TRAINING DAY,1,2017,6.0,Young Adults,"['DRAMA', 'ACTION']",NA,NA,13,42.15384615384615
+0,AKBAR BIRBAL,2,2013,-1.0,Older Kids,"['INTERNATIONAL', 'KIDS']",['mild violence'],ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,24,12.083333333333334
+0,TOKYO ALICE,1,2019,4.2,Teens,"['DRAMA', 'ROMANCE']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,27.083333333333332
+0,CENSORSHIP IN THE FUTURE,1,2015,6.3,Young Adults,"['COMEDY', 'INTERNATIONAL']",NA,OML,1,6.0
+0,EMPIRE GAMES,1,2018,-1.0,Young Adults,[],NA,KM PLUS MEDIA BIG MEDIA,6,48.666666666666664
+0,HAP AND LEONARD,3,2016,7.7,Adults,"['DRAMA', 'SUSPENSE']",NA,ENTERTAINMENT ONE,18,42.888888888888886
+0,IRODUKU : THE WORLD IN COLORS,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'violence']",IRODUKU：THE WORLD IN COLORS PROJECT,13,24.0
+0,A VERY ENGLISH SCANDAL,1,2018,-1.0,Young Adults,['DRAMA'],"['moderate drug use', 'strong foul language', 'strong sexuality', 'strong nudity', 'moderate violence']",BBC,3,58.333333333333336
+0,SIX DREAMS,1,2018,7.8,Young Adults,"['SPORTS', 'UNSCRIPTED']","['mild drug use', 'strong foul language', 'sexual content', 'violence']",AMAZON STUDIOS,6,63.0
+0,THE NEIGHBORS,2,2014,-1.0,Young Adults,[],NA,NA,20,42.0
+0,TOKYO GIRL,1,2018,8.2,Teens,"['COMEDY', 'INTERNATIONAL', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,11,22.636363636363637
+0,KRAZEE FOODIE - TAMIL,1,2017,-1.0,Kids,[],NA,CELEBRITIES MANAGEMENT PRIVATE LIMITED,12,25.166666666666668
+0,BEATLESS,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'sexual content', 'violence']",BEATLESS PRODUCTION COMMITTEE,28,23.964285714285715
+0,HAND OF GOD,2,2015,7.5,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,20,53.6
+0,UNSOLVED MYSTERIES: ORIGINAL ROBERT STACK EPISODES,12,1989,-1.0,Teens,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,233,46.622317596566525
+0,LOVE SHOTS,1,2016,7.5,Young Adults,['INTERNATIONAL'],NA,NA,6,8.5
+0,SPACED,2,1999,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content']",FILMRISE,14,24.785714285714285
+0,THAT GIRL,5,1967,-1.0,Older Kids,['COMEDY'],NA,STADIUM MEDIA,136,25.41176470588235
+0,RAY DONOVAN,6,2013,8.3,Adults,['DRAMA'],NA,SHOWTIME,72,53.236111111111114
+0,PLANET EARTH : SET 02,1,2006,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,6,49.0
+0,SCUM'S WISH,1,2017,6.9,Young Adults,['ANIME'],"['drug use', 'foul language', 'sexual content', 'violence']",NA,12,23.0
+0,MAN'S WORLD,1,2015,7.3,Teens,"['COMEDY', 'INTERNATIONAL']",NA,NA,1,57.0
+0,RED OAKS,3,2015,7.9,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,26,26.23076923076923
+0,TRIAL & ERROR,2,2017,8.0,Teens,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",WARNER BROS.,21,23.857142857142858
+0,"ROSWELL, NEW MEXICO",2,2019,-1.0,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",WB,26,42.0
+0,RAGE OF BAHAMUT VIRGIN SOUL,1,2017,7.4,Adults,"['INTERNATIONAL', 'ANIME']","['drug use', 'moderate foul language', 'mild sexuality', 'moderate violence']",NA,24,24.0
+0,GANGSTARS (TAMIL),1,2018,-1.0,Young Adults,['INTERNATIONAL'],NA,SILLY MONKS ENTERTAINMENT & EARLY MONSOON TALES,13,24.53846153846154
+0,THE MISSING,2,2014,-1.0,Young Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'sexual content', 'strong violence']",NA,16,58.9375
+0,ALL OR NOTHING: BRAZIL NATIONAL TEAM,1,2020,-1.0,Adults,[],"['foul language', 'violence']",AMAZON STUDIOS,5,50.6
+0,DISPATCHES FROM ELSEWHERE,1,2020,6.7,Young Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'violence']",NA,10,45.4
+0,XPLORE SPAIN - TAMIL,1,2017,-1.0,Teens,[],NA,CELEBRITIES MANAGEMENT PRIVATE LIMITED,5,25.6
+0,SIMPLE YOGA LESSONS WITH AJ,1,2017,-1.0,Older Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,0,0.0
+0,"MIDNIGHT, TEXAS",2,2017,-1.0,Adults,['DRAMA'],NA,NBCUNIVERSAL,19,42.8421052631579
+0,PRESUMED GUILTY,1,2016,-1.0,Adults,[],NA,ARES FILM,8,82.75
+0,AFTER THE RAIN,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'sexual content', 'violence']","AFTER THE RAIN THE ANIMATION COMMITTEE (FUJI TELEVISION , INC., ANIPLEX INC., DMM PICTURES, DENTSU, INC.)",12,23.0
+0,PETER GUNN,3,1959,-1.0,Teens,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),103,25.883495145631066
+0,HUNTER,7,1985,-1.0,Young Adults,[],NA,FILMRISE,152,47.93421052631579
+0,TROPICAL HEAT,3,1991,-1.0,Young Adults,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),66,49.515151515151516
+0,BLUE PLANET II – PRESENTER LED,1,2017,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC 1,7,57.857142857142854
+0,MAFIA UNDERCOVER,2,2016,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",TAODUE FILM,8,98.5
+0,JOHNNY BRAVO,4,1998,7.2,Older Kids,['ANIMATION'],NA,NA,132,8.742424242424242
+0,FUKUYADOU HONPO –KYOTO LOVE STORY-,1,2018,7.4,Teens,"['INTERNATIONAL', 'ROMANCE', 'DRAMA']","['foul language', 'drug use', 'sexual content']",AMAZON STUDIOS,12,33.916666666666664
+0,INUYASHIKI LAST HERO,1,2017,-1.0,Adults,"['INTERNATIONAL', 'ANIME']","['drug use', 'moderate foul language', 'sexual content', 'mild nudity', 'moderate violence']",TWINENGINE,11,23.0
+0,MOZART IN THE JUNGLE,4,2014,8.2,Adults,"['COMEDY', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,40,27.775
+0,BLACK SUN,1,2017,-1.0,Adults,[],NA,COBRA FILM DEPARTMENT / RTS,10,64.9
+0,PATRIOT,2,2017,8.3,Adults,"['DRAMA', 'SUSPENSE']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,18,47.0
+0,EAT THE WORLD WITH EMERIL LAGASSE,1,2016,7.9,Adults,"['DOCUMENTARY', 'SPECIAL INTEREST']","['foul language', 'drug use']",AMAZON STUDIOS,6,27.833333333333332
+0,MIRACLES OF NATURE,2,2011,-1.0,Teens,[],NA,NA,26,26.0
+0,ALL AMERICAN,3,2019,-1.0,Young Adults,"['SPORTS', 'DRAMA']",NA,WB,33,42.0
+0,CÓMO SOBREVIVIR SOLTERO,1,2020,7.3,Young Adults,['COMEDY'],"['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,10,31.6
+0,LIFE SENTENCE,1,2018,-1.0,Young Adults,['DRAMA'],NA,THE CW,13,41.84615384615385
+0,YOU ARE WANTED,2,2017,-1.0,Teens,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,49.0
+0,JOANNA LUMLEY'S INDIA,1,2017,-1.0,Kids,['DOCUMENTARY'],NA,ITV1,3,46.0
+0,XPLORE BHUTAN - TAMIL,1,2017,-1.0,Kids,[],NA,CELEBRITIES MANAGEMENT PRIVATE LIMITED,3,24.333333333333332
+0,RAJA AUR RANCHO,2,1996,-1.0,Young Adults,"['COMEDY', 'INTERNATIONAL']",NA,ULTRA MEDIA & ENTERTAINMENT PVT. LTD.,31,22.612903225806452
+0,DILRUK JAYASINHA: BUNDLE OF JOY,1,2020,6.0,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",['foul language'],AMAZON STUDIOS,1,60.0
+0,WELL SEASONED - TAMIL,1,2017,-1.0,Kids,[],NA,CELEBRITIES MANAGEMENT PRIVATE LIMITED,30,24.2
+0,ALONE TOGETHER,2,2018,-1.0,Young Adults,['COMEDY'],NA,FREEFORM,20,20.85
+0,RICK STEIN'S INDIA,1,2013,-1.0,Kids,['DOCUMENTARY'],NA,BBC2,6,59.0
+0,UNSOLVED MYSTERIES WITH DENNIS FARINA,8,2008,-1.0,Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'violence']",FILMRISE,175,42.965714285714284
+0,NOS4A2,2,2019,6.7,Adults,['DRAMA'],"['moderate foul language', 'drug use', 'sexual content', 'moderate violence']",AMC STUDIOS,20,45.5
+0,AMAZON RIDERS,2,2018,7.8,Teens,"['ACTION', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,26,32.46153846153846
+0,KARAKURI CIRCUS,1,2019,-1.0,Young Adults,['ANIME'],"['moderate drug use', 'moderate foul language', 'strong violence']",TWINENGINE,36,24.0
+0,MOZART IN THE JUNGLE,4,2014,8.2,Adults,"['COMEDY', 'DRAMA']","['strong foul language', 'strong drug use', 'strong sexuality', 'moderate violence']",AMAZON STUDIOS,40,27.775
+0,SNG: WHAT IF,1,2016,6.0,Teens,"['COMEDY', 'INTERNATIONAL', 'ARTS, ENTERTAINMENT, AND CULTURE']",NA,OML,2,6.0
+0,CRISIS IN SIX SCENES,1,2016,6.6,Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,6,23.5
+0,EAT. RACE. WIN.,1,2018,7.0,Young Adults,"['SPECIAL INTEREST', 'SPORTS', 'DOCUMENTARY']","['foul language', 'violence']",AMAZON STUDIOS,7,31.285714285714285
+0,BIG CATS,1,2018,-1.0,Teens,['DOCUMENTARY'],NA,BBC2,2,58.0
+0,EARTH'S NATURAL WONDERS: SERIES 2,1,2015,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,3,50.0
+0,EXTRAÑO ENEMIGO,1,2018,8.1,Young Adults,"['INTERNATIONAL', 'DRAMA']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,8,45.375
+0,TIGER: SPY IN THE JUNGLE,1,2008,-1.0,Teens,['DOCUMENTARY'],NA,BBC1,3,59.0
+0,LIFELINE,1,2018,-1.0,Teens,[],NA,TRK UKRAINE,10,48.8
+0,POPEYE: THE CONTINUING ADVENTURES,4,1978,-1.0,Older Kids,['ANIMATION'],NA,FILMRISE,65,22.953846153846154
+0,THE LAST TYCOON,1,2017,7.7,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,9,54.44444444444444
+0,TYOHAAR KI THAALI,2,2018,-1.0,Older Kids,[],NA,IN10 MEDIA PRIVATE LIMITED,51,24.254901960784313
+0,LIFELINE,1,2018,-1.0,Teens,[],NA,TRK UKRAINE,10,48.8
+0,THAT GIRL,5,1967,-1.0,Older Kids,['COMEDY'],NA,STADIUM MEDIA,136,25.41176470588235
+0,TRANSPARENT,5,2014,7.8,Adults,"['DRAMA', 'COMEDY', 'LGBTQ']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,42,29.714285714285715
+0,MOZART IN THE JUNGLE,4,2014,8.2,Adults,"['DRAMA', 'COMEDY']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,40,27.775
+0,FEED THE BEAST,1,2016,6.7,Young Adults,[],NA,NA,10,43.3
+0,CAMPO DE ESTRELLAS,3,2017,-1.0,Teens,"['DOCUMENTARY', 'SPORTS']","['mild foul language', 'violence']",REAL MADRID,36,51.5
+0,THE LOST WORLD,3,2000,-1.0,Teens,[],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",MULTICOM ENTERTAINMENT GROUP (MEG),66,43.666666666666664
+0,KANAN GILL: HOW INSENSITIVE,1,2016,7.1,Young Adults,"['INTERNATIONAL', 'COMEDY']",NA,OML,1,6.0
+0,PSYCHO-PASS 3,2,2019,-1.0,Young Adults,['ANIME'],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'moderate violence']",TWINENGINE,11,46.09090909090909
+0,UPSIDE DOWN PILATES,1,2013,-1.0,Older Kids,['SPECIAL INTEREST'],NA,BIGMEDIA,26,22.884615384615383
+0,ANNE EDMONDS: WHAT'S WRONG WITH YOU?,1,2020,6.1,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",['foul language'],AMAZON STUDIOS,1,63.0
+0,JIM GAFFIGAN: QUALITY TIME,1,2019,7.6,Teens,"['ARTS, ENTERTAINMENT, AND CULTURE', 'SPECIAL INTEREST', 'COMEDY']","['foul language', 'sexual content', 'violence']",AMAZON STUDIOS,2,52.5
+0,TIME AFTER TIME,1,2017,6.7,Young Adults,"['SCIENCE FICTION', 'DRAMA']",NA,NA,11,46.0
+0,HAP AND LEONARD,3,2016,7.7,Adults,"['DRAMA', 'SUSPENSE']",NA,SUNDANCE TV,18,42.888888888888886
+0,KABANERI OF THE IRON FORTRESS,1,2016,7.2,Adults,"['ANIME', 'INTERNATIONAL', 'SCIENCE FICTION']","['foul language', 'nudity', 'violence']",FUJI TV,12,23.0
+0,ALL AMERICAN,3,2019,-1.0,Young Adults,"['SPORTS', 'DRAMA']",NA,WB,33,42.0
+0,SAEKANO♭ HOW TO RAISE A BORING GIRLFRIEND.FLAT,1,2017,-1.0,Teens,"['ANIME', 'INTERNATIONAL']","['foul language', 'violence']",NA,12,23.0
+0,COUPLING,4,2000,-1.0,Young Adults,['COMEDY'],NA,BBC2,28,28.928571428571427
+0,ROADIES,1,2016,7.4,Adults,"['COMEDY', 'DRAMA']",NA,NA,10,55.0
+0,ONIHEI,1,2017,7.5,Adults,"['ANIME', 'INTERNATIONAL']","['moderate drug use', 'moderate foul language', 'strong violence']",NA,13,24.0
+0,THE CHALLENGE: ETA,1,2020,8.4,Young Adults,['DOCUMENTARY'],"['violence', 'drug use', 'foul language']",AMAZON STUDIOS,8,58.0
+0,4 BLOCKS,3,2017,-1.0,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",WIEDEMANN & BERG,19,50.473684210526315
+0,DEXTER,8,2006,8.6,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",SHOWTIME S,96,53.21875
+0,THE SIMPLE LIFE,4,2004,-1.0,Young Adults,[],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'violence']",20TH CENTURY FOX TELEVISION,46,21.608695652173914
+0,JOHNNY BRAVO,4,1998,7.2,Older Kids,['ANIMATION'],NA,NA,132,8.742424242424242
+0,RE:CREATORS,1,2017,-1.0,Adults,['ANIME'],"['drug use', 'moderate foul language', 'mild nudity', 'moderate violence']",NA,22,24.0
+0,21 JUMP STREET,5,1987,-1.0,Young Adults,[],"['foul language', 'drug use', 'violence']",FILMRISE,103,46.24271844660194
+0,CALIGULA,1,2018,-1.0,Teens,"['COMEDY', 'INTERNATIONAL', 'UNSCRIPTED']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,20,43.1
+0,THE ROOK,1,2019,-1.0,Adults,['DRAMA'],NA,LIONS GATE TELEVISION INC.,8,51.75
+0,PAUL CHOWDHRY: LIVE INNIT,1,2019,-1.0,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",NA,AVALON,1,60.0
+0,ALMIRANTE HOTEL,1,2015,-1.0,Teens,[],NA,TELEVISIÓN DE GALICIA S.A / FORMATO PRODUCCIONES S.L,4,46.5
+0,YOU ARE WANTED,2,2017,6.0,Teens,"['SUSPENSE', 'DRAMA']","['drug use', 'foul language', 'sexual content', 'violence']",AMAZON STUDIOS,12,49.0
+0,THE MISSING,2,2014,-1.0,Young Adults,['DRAMA'],"['strong foul language', 'moderate drug use', 'sexual content', 'strong violence']",NA,16,58.9375
+0,BEAT,1,2018,7.4,Young Adults,"['DRAMA', 'INTERNATIONAL']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,7,61.285714285714285
+0,FINAL LIFE,1,2019,5.3,Young Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,31.083333333333332
+0,DARK FOREST,1,2015,-1.0,Young Adults,[],NA,PIETRO VALSECCHI,4,87.5
+0,MAN IN ARMS,1,2019,-1.0,Young Adults,[],NA,NA,12,26.416666666666668
+0,THE MISSING,2,2014,-1.0,Young Adults,[],NA,NA,16,58.9375
+0,ENGINUITY,2,2015,-1.0,Young Adults,[],NA,NA,26,24.0
+0,KILLING BITES,1,2018,-1.0,Adults,['ANIME'],"['moderate foul language', 'strong sexuality', 'nudity', 'moderate violence']",KILLING BITES PRODUCTION COMMITTEE,12,24.0
+0,BATTERY THE ANIMATION,1,2016,5.8,Teens,"['SPORTS', 'ANIME']","['foul language', 'violence']",ANIME BATTERY PRODUCTION COMMITTEE,11,23.0
+0,SNOG MARRY AVOID?,6,2008,-1.0,Young Adults,[],NA,REMARKABLE TELEVISION,62,29.322580645161292
+0,MAJOR CRIMES,6,2012,7.7,Young Adults,['DRAMA'],NA,WB,105,42.10476190476191
+0,SILK STALKINGS,4,1992,-1.0,Adults,[],NA,FILMRISE,88,45.90909090909091
+0,WATER RATS,7,1996,-1.0,Young Adults,[],"['drug use', 'foul language', 'violence']",SOUTHERN STAR ENTERTAINMENT,177,43.74576271186441
+0,SEVEN SENSES OF THE RE’UNION,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'violence']",SEVEN SENSES OF THE REUNION PRODUCTION COMMITTEE,12,24.0
+0,4 BLOCKS,3,2017,8.2,Young Adults,['DRAMA'],NA,WIEDEMANN & BERG,19,50.473684210526315
+0,ONE MISSISSIPPI,2,2016,7.3,Adults,['DRAMA'],"['drug use', 'foul language', 'sexual content', 'violence']",AMAZON_STUDIOS,12,27.166666666666668
+0,TRAVEL IN STYLE,3,2013,-1.0,Teens,['SPECIAL INTEREST'],NA,BIGMEDIA,39,23.307692307692307
+0,SECRET LIVES OF DOGS: SERIES 2,1,2017,-1.0,Older Kids,['DOCUMENTARY'],NA,ITV1,3,50.0
+0,THE COMMISH,4,1992,-1.0,Young Adults,[],NA,FILMRISE,87,47.37931034482759
+0,YOGACITY,2,2012,-1.0,Older Kids,[],NA,GOODTIMES,24,17.833333333333332
+0,CARIBBEAN THUNDER,1,2011,-1.0,Teens,[],NA,FIDIA FILM,3,106.66666666666667
+0,SON OF ABISH,1,2016,7.3,Teens,"['ARTS, ENTERTAINMENT, AND CULTURE', 'INTERNATIONAL']",NA,OML,5,9.4
+0,THE ELEPHANTS' EMPIRE,1,2000,-1.0,Teens,[],NA,SOUTHERN STAR ENTERTAINMENT,3,52.0
+0,TOP 10 ARCHITECTURE,1,2015,-1.0,Kids,[],NA,NA,10,52.2
+0,ENGLAND'S FORGOTTEN QUEEN: THE LIFE AND DEATH OF LADY JANE GRAY,1,2018,-1.0,Young Adults,[],NA,DARLOW SMITHSON PRODUCTIONS,3,59.0
+0,TEEN WOLF,2,1986,5.9,Older Kids,"['ADVENTURE', 'COMEDY']",NA,MULTICOM ENTERTAINMENT GROUP (MEG),21,24.61904761904762
+0,ANGIE TRIBECA,4,2016,7.0,Young Adults,['COMEDY'],NA,TBS,40,21.05
+0,VARIETY VANTULU,1,2018,-1.0,Older Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,0,0.0
+0,KOLKATA WITH SUE PERKINS,1,2015,-1.0,Teens,['DOCUMENTARY'],NA,BBC1,1,59.0
+0,UNUSUAL CULTURES,1,2013,-1.0,Adults,[],NA,KM PLUS MEDIA BIG MEDIA,13,26.0
+0,WELCOME TO THE BALLROOM,1,2017,-1.0,Young Adults,['ANIME'],"['foul language', 'violence']",NA,24,24.0
+0,COLLISION,1,2009,-1.0,Young Adults,['DRAMA'],"['foul language', 'drug use', 'violence']",GREENLIT PRODUCTIONS,5,45.0
+0,INSIDE JOKES,1,2018,7.1,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']","['strong foul language', 'moderate drug use', 'moderate sexuality', 'violence']",AMAZON STUDIOS,6,51.0
+0,BABYLON,1,2020,-1.0,Young Adults,['ANIME'],"['drug use', 'foul language', 'sexual content', 'violence']",TWIN ENGINE INC.,12,23.666666666666668
+0,THE COLLECTION,1,2016,7.1,Young Adults,['DRAMA'],NA,NA,8,57.75
+0,ALTAIR: A RECORD OF BATTLES,1,2017,-1.0,Teens,['ANIME'],"['foul language', 'violence']","""ALTAIR: A RECORD OF BATTLES"" PRODUCTION COMMITTEE.",24,24.0
+0,DE LA VIDA AL PLATO,1,2020,6.1,Teens,"['DOCUMENTARY', 'SPECIAL INTEREST']","['foul language', 'drug use', 'violence']",MEDIASET ESPAÑA,8,47.875
+0,LODGE 49,1,2018,-1.0,Adults,"['DRAMA', 'COMEDY']",NA,AMC STUDIOS INTERNATIONAL B.V,10,46.4
+0,JIM GAFFIGAN: THE PALE TOURIST,1,2020,6.6,Teens,"['ARTS, ENTERTAINMENT, AND CULTURE', 'COMEDY']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,2,47.5
+0,INSIDE BORUSSIA DORTMUND,1,2019,7.3,Teens,"['DRAMA', 'SPORTS', 'DOCUMENTARY']",NA,PAUSEFILM,4,80.0
+0,DAVID ATTENBOROUGH - 60 YEARS IN THE WILD,1,2012,-1.0,Teens,['DOCUMENTARY'],NA,BBC2,3,58.666666666666664
+0,THE NEIGHBORS,2,2014,-1.0,Young Adults,[],NA,NA,20,42.0
+0,TOKYO VAMPIRE HOTEL,1,2018,6.4,Adults,"['FANTASY', 'INTERNATIONAL', 'HORROR']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,10,39.0
+0,AN UNKNOWN ENEMY,1,2018,8.1,Adults,"['INTERNATIONAL', 'DRAMA', 'SUSPENSE']","['moderate drug use', 'strong foul language', 'strong sexuality', 'nudity', 'moderate violence']",AMAZON STUDIOS,8,45.375
+0,FALLING WATER,2,2016,6.5,Young Adults,"['DRAMA', 'SCIENCE FICTION']",NA,NBCUNIVERSAL,20,43.45
+0,ROSS KEMP RETURN TO AFGHANISTAN,1,2009,-1.0,Adults,[],NA,TIGER ASPECT PRODUCTIONS,5,43.8
+0,UNSOLVED MYSTERIES: ORIGINAL ROBERT STACK EPISODES,12,1989,-1.0,Teens,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,233,46.622317596566525
+0,HAND OF GOD,2,2015,7.5,Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,20,53.6
+0,THE GREAT PASSAGE,1,2016,7.4,Older Kids,[],['violence'],GENBU DICTIONARY EDITORIAL DEPT.,11,23.0
+0,THE ADVENTURES OF ROBIN HOOD,4,1956,7.7,Teens,['ADVENTURE'],NA,MULTICOM ENTERTAINMENT GROUP (MEG),138,25.905797101449274
+0,STRIKE FORCE,2,2014,-1.0,Young Adults,[],NA,DAVID LAMMERS,20,49.7
+0,KOKKOKU,1,2018,-1.0,Teens,['ANIME'],"['foul language', 'violence']","KOKKOKU COMMITTEE (TWIN ENGINE, GENO STUDIO)",12,24.0
+0,FULL DISCLOSURE,2,2015,-1.0,Young Adults,[],NA,R.T.I.,20,86.9
+0,MAD WORLD,1,2015,-1.0,Young Adults,[],NA,KM PLUS MEDIA BIG MEDIA,8,52.0
+0,DIVE!!,1,2017,-1.0,Kids,['ANIME'],['foul language'],NA,12,23.0
+0,DIE TRYING,1,2018,-1.0,Young Adults,"['INTERNATIONAL', 'COMEDY']",NA,NA,7,23.285714285714285
+0,THE KACEY MUSGRAVES CHRISTMAS SHOW,1,2019,7.2,Older Kids,['COMEDY'],"['foul language', 'drug use', 'violence']",AMAZON STUDIOS,3,44.666666666666664
+0,TOMMY LITTLE: SELF-DIAGNOSED GENIUS,1,2020,6.9,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'violence']",AMAZON STUDIOS,1,59.0
+0,DEADLY GAME,1,2013,-1.0,Young Adults,[],NA,ROMANTICA ENTERTAINMENT,2,102.5
+0,HUNTER,7,1985,-1.0,Young Adults,[],NA,FILMRISE,152,47.93421052631579
+0,THE INCREDIBLE JOURNEY OF MARY BRYANT,1,2007,-1.0,Adults,[],NA,FILMRISE,3,62.0
+0,ALL OR NOTHING,5,2016,7.8,Adults,"['SPORTS', 'UNSCRIPTED']","['drug use', 'foul language', 'violence']",AMAZON STUDIOS,40,46.65
+0,ELUSIVE FOLK,1,2019,-1.0,Adults,[],NA,NA,12,26.416666666666668
+0,INVENTION STORY,1,2018,-1.0,Young Adults,[],NA,MONDO TV,52,19.73076923076923
+0,SPACED,2,1999,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content']",FILMRISE,14,24.785714285714285
+0,POPEYE: THE CONTINUING ADVENTURES,4,1978,-1.0,Older Kids,['ANIMATION'],NA,FILMRISE,65,22.953846153846154
+0,IDRIS ELBA: KING OF SPEED,1,2013,-1.0,Young Adults,[],NA,SHINE,3,44.666666666666664
+0,WEIRD WONDER'S OF THE WORLD,1,2016,-1.0,Teens,['DOCUMENTARY'],NA,BBC2,8,50.375
+0,CELIA PACQUOLA: ALL TALK,1,2020,7.0,Young Adults,"['COMEDY', 'TALK SHOW AND VARIETY']",['foul language'],NA,1,59.0
+0,ALICE FRASER: SAVAGE,1,2020,6.8,Young Adults,[],"['foul language', 'violence']",NA,1,63.0
+0,JAGUAR ADVENTURE WITH NIGEL MARVEN,1,2008,-1.0,Adults,[],NA,TIGRESS PRODUCTIONS,6,45.166666666666664
+0,MEERKAT MANOR,3,2006,-1.0,Kids,[],NA,OXFORD SCIENTIFIC FILMS,39,22.58974358974359
+0,SUBETE A MI MOTO,1,2020,6.1,Young Adults,['DRAMA'],"['foul language', 'drug use', 'sexual content', 'violence']",SOMOS NEXT,15,44.333333333333336
+0,TROPICAL HEAT,3,1991,-1.0,Young Adults,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),66,49.515151515151516
+0,PAUL CHOWDHRY: LIVE INNIT,1,2019,-1.0,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",NA,AVALON,1,60.0
+0,UNSOLVED MYSTERIES WITH DENNIS FARINA,8,2008,-1.0,Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'violence']",FILMRISE,175,42.965714285714284
+0,UMEED INDIA,1,2017,-1.0,Teens,[],NA,IN10 MEDIA PRIVATE LIMITED,14,23.0
+0,INSIDE BORUSSIA DORTMUND,1,2019,-1.0,Teens,"['SPORTS', 'DOCUMENTARY', 'DRAMA']","['moderate foul language', 'violence']",AMAZON STUDIOS,4,80.0
+0,ANIMALS WITH CAMERAS (PRESENTERLESS),1,2018,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,3,48.0
+0,DROPKICK ON MY DEVIL!,1,2018,-1.0,Young Adults,['ANIME'],"['foul language', 'violence']",JASHIN COMMITTEE,12,24.0
+0,HOME OF FABULOUS CAKES,1,2013,-1.0,Older Kids,[],NA,BIG BARK TV,10,47.0
+0,BEVERLY HILLS TEEN CLUB,1,1987,-1.0,Older Kids,['DRAMA'],NA,DHX_MEDIA,65,22.0
+0,CHANGING SEAS,7,2010,-1.0,Kids,[],NA,NA,28,25.857142857142858
+0,PISTORIUS,1,2018,-1.0,Young Adults,['DOCUMENTARY'],NA,KEW MEDIA GROUP,4,59.25
+0,RUCHI'S KITCHEN,5,2013,-1.0,Teens,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,11,6.909090909090909
+0,BRITAIN'S BIGGEST ADVENTURES WITH BEAR GRYLLS,1,2015,-1.0,Older Kids,['DOCUMENTARY'],NA,ITV1,3,45.0
+0,STINGRAY,2,1986,-1.0,Young Adults,[],NA,FILMRISE,25,48.36
+0,MURPHY BROWN,1,2018,-1.0,Teens,['COMEDY'],NA,WB,13,21.53846153846154
+0,#IMOMSOHARD LIVE,1,2019,5.5,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'drug use', 'sexual content']",AMAZON STUDIOS,2,45.5
+0,RUCHKAR MEJWANI KARWAR SPECIAL,1,2017,-1.0,Older Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,2,7.0
+0,FOOD FACTORY - SUPERSIZED,1,2012,-1.0,Kids,['DOCUMENTARY'],NA,BBC1,6,29.0
+0,HAPPY SUGAR LIFE,1,2018,-1.0,Young Adults,['ANIME'],"['foul language', 'sexual content', 'violence']",HAPPY SUGAR LIFE PARTNERS,12,24.0
+0,RENEGADE,5,1993,-1.0,Young Adults,[],NA,FILMRISE,110,43.93636363636364
+0,THE REAL MCCOYS,6,1958,-1.0,Kids,['COMEDY'],NA,FILMRISE,224,22.111607142857142
+0,PETER GUNN,3,1959,-1.0,Teens,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),103,25.883495145631066
+0,EARTH'S NATURAL WONDERS: SERIES 2,1,2018,-1.0,Young Adults,['DOCUMENTARY'],NA,BBC1,3,51.666666666666664
+0,RANDOM GAPPA,1,2017,-1.0,Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,5,13.2
+0,BAKE IT WITH NEHA,1,2017,-1.0,Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,0,0.0
+0,FLAVOR OF LOVE,3,2006,-1.0,Young Adults,[],NA,51 MINDS ENTERTAINMENT,38,42.71052631578947
+0,FERRO,1,2020,6.4,Young Adults,"['UNSCRIPTED', 'DOCUMENTARY', 'MUSIC VIDEOS AND CONCERTS']","['drug use', 'foul language']",AMAZON STUDIOS,2,67.5
+0,MAGI THE TENSHO BOYS’ EMBASSY,1,2019,-1.0,Young Adults,['DRAMA'],"['foul language', 'violence']",TBS VISION,16,24.5625
+0,AMAZON RIDERS,1,2018,7.8,Teens,"['INTERNATIONAL', 'ACTION']","['foul language', 'drug use', 'violence']",AMAZON STUDIOS,13,33.0
+0,BLUE PLANET II - MAKING OF,1,2017,-1.0,Kids,['DOCUMENTARY'],NA,BBC1,6,9.333333333333334
+0,ILANA GLAZER: THE PLANET IS BURNING,1,2020,3.8,Adults,['COMEDY'],"['foul language', 'sexual content']",AMAZON STUDIOS,2,44.5
+0,MR. LUCKY,1,1960,-1.0,Teens,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),34,25.38235294117647
+0,RUCHKAR MEJWANI BORDI SPECIAL,1,2018,-1.0,Older Kids,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,0,0.0
+0,QUEEN SUGAR,4,2016,7.7,Adults,['DRAMA'],NA,WARNER BROS.,56,43.375
+0,DIETLAND,1,2018,-1.0,Young Adults,"['COMEDY', 'DRAMA']",NA,AMC STUDIOS INTERNATIONAL B.V,10,44.1
+0,MAGICAL GIRL SITE,1,2018,-1.0,Young Adults,['ANIME'],"['foul language', 'violence']",MAHOUSYOUJYOSITE COMMITTEE,12,24.0
+0,EIC VS THE WORLD,1,2017,8.1,Young Adults,"['COMEDY', 'INTERNATIONAL']",NA,OML,12,14.166666666666666
+0,GLORIOUS GARDENS FROM ABOVE,1,2015,-1.0,Older Kids,[],NA,BBC,15,44.0
+0,TO THE ENDS OF THE EARTH (BBC SERIES),1,2005,-1.0,Teens,[],NA,FILMRISE,3,88.33333333333333
+0,ON THE YORKSHIRE BUSES,1,2014,-1.0,Young Adults,[],NA,THE GARDEN PRODUCTIONS,8,42.875
+0,IT'S A VET'S LIFE,1,2014,-1.0,Older Kids,[],NA,BBC SCOTLAND,15,26.6
+0,CHRIS RAMSEY: APPROVAL NEEDED,1,2019,6.9,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",NA,AVALON,1,66.0
+0,ALICE WETTERLUND: MY MAMA IS A HUMAN AND SO AM I,1,2019,5.2,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']","['strong foul language', 'moderate sexuality']",AMAZON STUDIOS,2,44.5
+0,WATERPEOPLE,1,2019,-1.0,Young Adults,[],NA,NA,5,48.4
+0,A LONG STRANGE TRIP,1,2017,8.2,Adults,"['MUSIC VIDEOS AND CONCERTS', 'DOCUMENTARY']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,6,47.333333333333336
+0,THE STORYTELLERS IN THE LIVING ROOM,1,2017,-1.0,Adults,"['INTERNATIONAL', 'ARTS, ENTERTAINMENT, AND CULTURE']",NA,OML,10,10.2
+0,BOOKER,1,1990,-1.0,Young Adults,[],NA,FILMRISE,22,46.45454545454545
+0,JUDITH LUCY: JUDITH LUCY VS MEN,1,2020,6.3,Adults,"['COMEDY', 'TALK SHOW AND VARIETY']",['foul language'],NA,1,76.0
+0,JAYDE ADAMS: SERIOUS BLACK JUMPER,1,2020,7.1,Young Adults,"['COMEDY', 'ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'sexual content', 'violence']",AMAZON STUDIOS,1,62.0
+0,LEMUR STREET,1,2008,-1.0,Teens,[],NA,SOUTHERN STAR ENTERTAINMENT,20,22.05
+0,GINA BRILLON: THE FLOOR IS LAVA,1,2020,6.0,Young Adults,['COMEDY'],"['foul language', 'violence']",AMAZON STUDIOS,2,44.0
+0,ZOË COOMBS MARR: BOSSY BOTTOM,1,2020,6.3,Adults,"['TALK SHOW AND VARIETY', 'COMEDY']",['foul language'],NA,1,65.0
+0,UNITED,1,2019,-1.0,Young Adults,[],NA,NA,12,25.916666666666668
+0,CASANOVA: PBS MASTERPIECE THEATRE - THE COMPLETE SERIES,1,2005,-1.0,Adults,[],NA,FILMRISE,3,57.333333333333336
+0,BUSINESSMEN VS. ALIENS,1,2018,4.4,Teens,"['INTERNATIONAL', 'COMEDY', 'SCIENCE FICTION']","['foul language', 'drug use', 'violence']",AMAZON STUDIOS,10,31.1
+0,UNSOLVED MYSTERIES WITH DENNIS FARINA,8,2008,-1.0,Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'violence']",FILMRISE,175,42.965714285714284
+0,FALLING WATER,2,2016,6.5,Young Adults,['DRAMA'],NA,NBCUNIVERSAL,20,43.45
+0,REGULAR HEROES,1,2020,6.6,Teens,['UNSCRIPTED'],"['foul language', 'violence']",AMAZON STUDIOS,8,29.5
+0,RUCHI'S KITCHEN,5,2013,-1.0,Teens,['INTERNATIONAL'],NA,RAJSHRI ENTERTAINMENT PRIVATE LIMITED,11,6.909090909090909
+0,СENTENARIAN RULES OF LIFE,1,2019,-1.0,Teens,[],NA,NA,8,45.375
+0,THE SALENTO MURDERS,1,2011,-1.0,Young Adults,[],NA,ALBA FILM 3000,2,104.5
+0,THE SEDUCTION OF SMOKING,1,2014,-1.0,Adults,[],NA,BBC PRODUCTIONS,2,52.5
+0,TROPICAL HEAT,3,1991,-1.0,Young Adults,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),66,49.515151515151516
+0,RAFTAAR,2,2017,-1.0,Kids,"['INTERNATIONAL', 'SPECIAL INTEREST']",NA,NDTV,58,18.086206896551722
+0,UNSOLVED MYSTERIES: ORIGINAL ROBERT STACK EPISODES,12,1989,-1.0,Teens,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,233,46.622317596566525
+0,SNOG MARRY AVOID?,6,2008,-1.0,Young Adults,[],NA,REMARKABLE TELEVISION,62,29.322580645161292
+0,LOUDERMILK,2,2017,-1.0,Young Adults,['COMEDY'],NA,AUDIENCE,20,29.0
+0,THE RED LINE,1,2019,-1.0,Adults,['DRAMA'],NA,WB,8,42.875
+0,ALL OR NOTHING: THE MICHIGAN WOLVERINES,1,2018,7.6,Adults,"['UNSCRIPTED', 'SPORTS']","['foul language', 'violence']",AMAZON STUDIOS,8,42.5
+0,ALL OR NOTHING,5,2016,7.8,Adults,"['SPORTS', 'UNSCRIPTED']","['drug use', 'foul language', 'violence']",AMAZON STUDIOS,40,46.65
+0,THE DANNY THOMAS SHOW,3,1958,-1.0,Teens,[],NA,STADIUM MEDIA,94,25.96808510638298
+0,THE ADVENTURES OF ROBIN HOOD,4,1956,7.7,Teens,['ADVENTURE'],NA,MULTICOM ENTERTAINMENT GROUP,138,25.905797101449274
+0,21 JUMP STREET,5,1987,-1.0,Young Adults,[],"['foul language', 'drug use', 'violence']",FILMRISE,103,46.24271844660194
+0,UNSOLVED MYSTERIES: ORIGINAL ROBERT STACK EPISODES,12,1989,-1.0,Teens,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",FILMRISE,233,46.622317596566525
+0,VIVID STRIKE!,1,2016,6.5,Young Adults,['ANIME'],"['foul language', 'violence']",NA,12,24.0
+0,THE COMMISH,4,1992,-1.0,Young Adults,[],NA,FILMRISE,87,47.37931034482759
+0,ALONZO BODDEN: HEAVY LIGHTWEIGHT,1,2019,6.2,Young Adults,[],"['foul language', 'violence']",AMAZON STUDIOS,2,42.0
+0,PETER GUNN,3,1959,-1.0,Teens,[],NA,MULTICOM ENTERTAINMENT GROUP (MEG),103,25.883495145631066
+0,TUCKER'S WITCH,1,1983,-1.0,Young Adults,['DRAMA'],NA,MULTICOM ENTERTAINMENT GROUP (MEG),13,48.84615384615385
+0,SPACE PRECINCT: COMPLETE SERIES,1,1995,-1.0,Teens,[],NA,STADIUM MEDIA TV,24,44.083333333333336
+0,ROCK OF LOVE,3,2007,-1.0,Young Adults,[],"['foul language', 'drug use', 'sexual content']",51 MINDS ENTERTAINMENT,40,40.575
+0,FAMILY PICTURES,1,1993,-1.0,Teens,[],NA,MULTICOM ENTERTAINMENT GROUP,4,47.0
+0,THE REAL MCCOYS,6,1958,-1.0,Kids,['COMEDY'],NA,FILMRISE,224,22.111607142857142
+0,WHAT THE CONSTITUTION MEANS TO ME,1,2020,7.1,Young Adults,['COMEDY'],"['violence', 'foul language']",AMAZON STUDIOS,2,56.5
+0,STINGRAY,2,1986,-1.0,Young Adults,[],NA,FILMRISE,25,48.36
+0,LONG STRANGE TRIP,1,2017,8.2,Adults,"['MUSIC VIDEOS AND CONCERTS', 'DOCUMENTARY']","['severe drug use', 'moderate foul language', 'mild nudity', 'mild violence']",AMAZON STUDIOS,6,47.0
+0,ROB DELANEY: JACKIE,1,2020,6.6,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE', 'COMEDY']",['foul language'],AMAZON STUDIOS,2,46.0
+0,THE MAGICIANS,2,2011,-1.0,Teens,[],NA,SHINE,11,51.81818181818182
+0,KEMURIKUSA.,1,2019,-1.0,Teens,['ANIME'],NA,ヤオヨロズケムリクサプロジェクト,12,24.0
+0,ELEPHANT FAMILY AND ME,1,2016,-1.0,Teens,['DOCUMENTARY'],NA,BBC2,2,59.0
+0,HOW TO STAY YOUNG: SERIES 2,2,2016,-1.0,Teens,['DOCUMENTARY'],NA,BBC1,5,54.2
+0,THE RAY BRADBURY THEATER,6,1986,-1.0,Teens,[],NA,FILMRISE,65,24.16923076923077
+0,AIR AMBULANCE ER,2,2014,-1.0,Young Adults,[],NA,GROUPM ENTERTAINMENT LIMITED,12,43.75
+0,THE PATH,3,2016,7.3,Adults,['DRAMA'],NA,NBCUNIVERSAL,36,50.111111111111114
+0,TOM GLEESON: JOY,1,2020,6.2,Young Adults,[],['foul language'],NA,1,72.0
+0,LANO & WOODLEY: FLY,1,2020,7.2,Young Adults,"['COMEDY', 'TALK SHOW AND VARIETY']",NA,NA,1,61.0
+0,QUEEN SUGAR,4,2016,7.7,Adults,['DRAMA'],NA,WARNER BROS.,56,43.375
+0,CHANGING SEAS,7,2010,-1.0,Kids,[],NA,NA,28,25.857142857142858
+0,WATER RATS,7,1996,-1.0,Young Adults,[],"['drug use', 'foul language', 'violence']",SOUTHERN STAR ENTERTAINMENT,177,43.74576271186441
+0,GADGET GURU,1,2018,-1.0,Kids,"['SPECIAL INTEREST', 'INTERNATIONAL']",NA,NA,93,22.408602150537636
+0,HITOSHI MATSUMOTO PRESENTS DOCUMENTAL,3,2018,8.0,Adults,"['COMEDY', 'ARTS, ENTERTAINMENT, AND CULTURE', 'INTERNATIONAL', 'UNSCRIPTED']","['foul language', 'drug use', 'sexual content', 'nudity', 'violence']",AMAZON STUDIOS,14,45.92857142857143
+0,TOM WALKER: VERY VERY,1,2020,6.6,Young Adults,"['TALK SHOW AND VARIETY', 'COMEDY']",NA,NA,1,51.0
+0,THE GREATEST AMERICAN HERO,3,1981,-1.0,Young Adults,[],NA,FILMRISE,43,49.7906976744186
+0,THE LIVES OF THE SAINTS,1,2007,-1.0,Teens,[],NA,FILMRISE,3,60.0
+0,ACTION SPORTS WORLD,1,2014,-1.0,Kids,[],NA,NA,26,48.0
+0,PAN Y CIRCO,1,2020,6.7,Young Adults,['TALK SHOW AND VARIETY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,7,39.857142857142854
+0,RENEGADE,5,1993,-1.0,Young Adults,[],NA,FILMRISE,110,43.93636363636364
+0,FLO AND JOAN: ALIVE ON STAGE,1,2019,-1.0,Young Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",NA,AVALON,1,60.0
+0,DE VIAJE CON LOS DERBEZ,1,2019,-1.0,Young Adults,['DOCUMENTARY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,9,35.77777777777778
+0,TRUE STORY AVEC,1,2020,5.4,Teens,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,7,26.428571428571427
+0,WHICH WAY TO,2,2012,-1.0,Young Adults,['ACTION'],NA,BIGMEDIA,13,46.0
+0,CELL GURU,2,2017,-1.0,Not rated,"['INTERNATIONAL', 'SPECIAL INTEREST']",NA,NDTV,54,17.11111111111111
+0,KOMMUNE PRESENTS THE STORYTELLERS,1,2016,-1.0,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE', 'INTERNATIONAL']",NA,OML,6,7.833333333333333
+0,FLAVOR OF LOVE,3,2006,-1.0,Young Adults,[],NA,51 MINDS,38,42.71052631578947
+0,MIKE E. WINFIELD: STEPMAN,1,2019,6.6,Young Adults,[],"['foul language', 'sexual content', 'violence']",AMAZON STUDIOS,2,44.0
+0,EL BULLI: THE STORY OF A DREAM,1,2011,-1.0,Young Adults,['DOCUMENTARY'],NA,ELBULLI,15,57.266666666666666
+0,INTO THE DRINK,1,2013,-1.0,Teens,['SPECIAL INTEREST'],NA,BIGMEDIA,13,22.615384615384617
+0,BLACK HARBOUR,2,1997,-1.0,Young Adults,[],NA,FILMRISE,26,46.07692307692308
+0,MEERKAT MANOR,3,2006,-1.0,Kids,[],NA,OXFORD SCIENTIFIC FILMS,39,22.58974358974359
+0,ED GAMBLE: BLOOD SUGAR,1,2019,-1.0,Adults,"['ARTS, ENTERTAINMENT, AND CULTURE']",NA,AVALON,1,60.0
+0,THE WORLD OF STONEHENGE,1,2011,-1.0,Not rated,['DOCUMENTARY'],NA,BBC 2,4,51.75
+0,IMDB AT THE OSCARS,1,2019,-1.0,Young Adults,[],NA,IMDB,10,45.1
+0,PEEP TIME,1,2020,4.5,Young Adults,"['TALK SHOW AND VARIETY', 'COMEDY']","['drug use', 'foul language']",AMAZON STUDIOS,10,28.6
+0,SNG: DON'T COME LAST,1,2017,-1.0,Adults,"['UNSCRIPTED', 'INTERNATIONAL']",NA,OML,12,19.25
+0,CAMPO DE ESTRELLAS,3,2017,-1.0,Teens,"['SPORTS', 'DOCUMENTARY']","['mild foul language', 'violence']",REAL_MADRID,36,51.5
+0,SILVER AND GOLD,1,2017,-1.0,Teens,['DRAMA'],"['foul language', 'violence']",テレビ東京,12,24.916666666666668
+0,NEON RIDER,5,1990,-1.0,Young Adults,[],NA,FILMRISE,65,46.66153846153846
+0,SPORTS ADVENTURE,2,2012,-1.0,Older Kids,[],NA,NA,26,23.846153846153847
+0,SENTOSHA: BATTLE WHEELS,1,2018,7.5,Teens,"['INTERNATIONAL', 'UNSCRIPTED']","['foul language', 'sexual content', 'violence']",AMAZON STUDIOS,5,43.4
+0,YOUR BRUSH WITH NATURE,1,2008,-1.0,Kids,['DRAMA'],NA,BIGMEDIA,13,31.76923076923077
+0,MODERN HERO: THE SERIES,1,2016,-1.0,Teens,[],NA,FILMRISE,6,21.0
+0,TRABANT TREK,1,2012,-1.0,Adults,['DOCUMENTARY'],NA,BIGMEDIA,19,23.842105263157894
+0,TEEN WOLF,2,1986,5.9,Older Kids,"['ADVENTURE', 'COMEDY']",NA,MULTICOM ENTERTAINMENT GROUP (MEG),21,24.61904761904762
+0,LOL: LAST ONE LAUGHING,2,2018,3.5,Young Adults,['COMEDY'],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,12,31.75
+0,"LUIS, EL SABIO DEL ÉXITO",1,2018,-1.0,Young Adults,['DOCUMENTARY'],NA,RFEF,2,32.5
+0,FREE MEEK,1,2019,5.9,Adults,[],"['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,5,39.0
+0,CHRIS TALL PRESENTS...,1,2019,3.0,Young Adults,"['COMEDY', 'ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'drug use', 'sexual content', 'violence']",AMAZON STUDIOS,7,43.57142857142857
+0,RICHARD WILSON ON THE ROAD,1,2014,-1.0,Older Kids,[],NA,SYNDICADO,6,22.0
+0,NOMADS SEEKING ADVENTURE,2,2014,-1.0,Older Kids,['SPORTS'],NA,BIGMEDIA,26,26.0
+0,UCHIMURA SUMMERS,1,2018,-1.0,Young Adults,"['INTERNATIONAL', 'ARTS, ENTERTAINMENT, AND CULTURE']","['foul language', 'violence']",NA,52,67.03846153846153
+0,SHORT POPPIES,1,2014,-1.0,Teens,[],NA,STADIUM MEDIA/AWESOMENESS INTERNATIONAL,8,22.625
+0,ALL ABOUT ADS,2,2017,-1.0,Not rated,"['SPECIAL INTEREST', 'INTERNATIONAL']",NA,NA,50,20.38
+0,MONEY HUNGRY,1,2010,-1.0,Young Adults,[],NA,51 MINDS ENTERTAINMENT,10,41.8
+0,BABE WINKELMAN OUTDOOR SECRETS,2,2014,-1.0,Young Adults,[],NA,NA,26,19.115384615384617
+0,LA LA'S FULL COURT LIFE,5,2011,-1.0,Young Adults,[],NA,51 MINDS,46,19.956521739130434
+0,BABE WINKELMAN GOOD FISHING,2,2014,-1.0,Kids,[],NA,NA,26,19.576923076923077
+0,THE 2018 ROSE PARADE HOSTED BY CORD & TISH [UHD],1,2018,-1.0,Kids,[],NA,NA,1,117.0
+0,THE INCREDIBLE MR GOODWIN,1,2013,-1.0,Young Adults,['DOCUMENTARY'],NA,WATCH,5,44.4
+0,RHETT & LINK: COMMERCIAL KINGS,1,2011,-1.0,Teens,[],NA,JOKE PRODUCTIONS,10,23.0
+0,LEGACIES,3,2019,-1.0,Young Adults,['DRAMA'],"['moderate foul language', 'moderate drug use', 'mild sexuality', 'strong violence']",WB,33,42.0
+0,THE FAMILY MAN,2,2019,8.6,Adults,"['ACTION', 'DRAMA']","['strong foul language', 'strong drug use', 'sexual content', 'moderate violence']",AMAZON STUDIOS,11,45.90909090909091
+0,3 CAMINOS,1,2021,8.0,Kids,['DRAMA'],NA,"""""CINEMATE""""",8,49.25
+0,STAR TREK: LOWER DECKS,1,2020,6.7,Young Adults,[],NA,CBS,10,25.4

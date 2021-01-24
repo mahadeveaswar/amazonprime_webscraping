@@ -1,0 +1,12 @@
+selenium==3.141.0
+beautifulsoup4==4.9.3
+pandas==0.25.3
+requests==2.25.0
+numpy==1.19.4
+matplotlib==3.3.3
+seaborn==0.11.0
+Flask==1.0.2
+
+
+
+

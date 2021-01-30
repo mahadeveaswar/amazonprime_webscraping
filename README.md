@@ -1,5 +1,7 @@
 # Scraping Top TV Shows Data from Amazon Prime Video
 
+![Prime Video Logo](./images/prime_logo.png)
+
 ## Overview
 
 Web scraping is the process of extracting data from websites using its HTML structure. 

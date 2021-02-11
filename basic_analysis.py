@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from ast import literal_eval
 
 tv_show_df = pd.read_csv('shows_data.csv')
+tv_show_df = tv_show_df.drop(columns=['Unnamed: 0'])
 tv_show_df['genre'] = tv_show_df['genre'].apply(literal_eval)
 tv_show_df['content_advisory'] = tv_show_df['content_advisory'].apply(literal_eval)
 # Based on imdb rating
@@ -14,7 +15,7 @@ tv_show_df['imdb_avg'] = round(tv_show_df.imdb_rating*2)/2
 # Top 10 networks
 net_df = tv_show_df.network.value_counts().nlargest(5).reset_index()
 nw = sns.barplot(x='index',y='network',data=net_df)
-nw.set_xticklabels(nw.get_xticklabels(),rotation=30)
+nw.set_xticklabels(nw.get_xticklabels(),rotation=20)
 plt.pause(3)
 plt.close()
 
@@ -49,13 +50,16 @@ plt.close()
 
 # Shows count against year
 top15_yr_df = tv_show_df.groupby(['start_year']).title.count().nlargest(15).reset_index()
-sns.barplot(x='start_year',y='title',data=top15_yr_df)
+top15_yr_df['count'] = top15_yr_df['title']
+sns.barplot(x='start_year',y='count',data=top15_yr_df)
 plt.pause(3)
 plt.close()
 
 # dropping the shows without rating
 imdb_avg = tv_show_df['imdb_avg'].value_counts().iloc[1:]
-imdb_avg.plot(kind='bar')
+ax = imdb_avg.plot(kind='bar')
+ax.set_xlabel("imdb_approx_rating")
+ax.set_ylabel("count")
 plt.pause(3)
 plt.close()
 
@@ -70,4 +74,7 @@ plt.close()
 
 # Content advisory against imdb rating
 ca_imdb_df = content_genre.groupby(['content_advisory'])['imdb_avg'].agg('mean').nlargest(10).reset_index()
-print(ca_imdb_df)
+ca = sns.barplot(x='content_advisory',y='imdb_avg',data=ca_imdb_df)
+ca.set_xticklabels(ca.get_xticklabels(),rotation=30)
+plt.pause(3)
+plt.close()

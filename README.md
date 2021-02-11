@@ -25,19 +25,19 @@ You will also find some python code to perform basic analysis on the data obtain
 ## Analysis
 
 ## Content Advisory Top 10
-![Content Advisory Top 10](./images/content_advisory_imdb_top10.jpg)
+![Content Advisory Top 10](./images/content_advisory_imdb_top10.JPG)
 ## IMDb Avg Rating
-![IMDb Avg Rating](./images/imdb_avg_rating.jpg)
+![IMDb Avg Rating](./images/imdb_avg_rating.JPG)
 ## Shows vs Year
-![Shows vs Year](./images/showsperyear.jpg)
+![Shows vs Year](./images/showsperyear.JPG)
 ## Top 5 Genre
-![Top 5 Genre](./images/top5Genre.jpg)
+![Top 5 Genre](./images/top5Genre.JPG)
 ## Top 5 Network
-![Top 5 Network](./images/top5network.jpg)
+![Top 5 Network](./images/top5network.JPG)
 ## Viewer Maturity
-![Viewer Maturity](./images/viewermaturity.jpg)
+![Viewer Maturity](./images/viewermaturity.JPG)
 ## Content Advisory IMDb Top 10
-![Content Advisory IMDb Top 10](./images/content_advisory_top10.jpg)
+![Content Advisory IMDb Top 10](./images/content_advisory_top10.JPG)
 
 
 Thank you for visiting my GitHub profile.

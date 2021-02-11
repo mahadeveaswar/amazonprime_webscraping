@@ -12,6 +12,9 @@ In this repo you will find the code I used to scrape data from **Amazon Prime Vi
 * Selenium
 * Beautiful Soup 
 * Requests
+* Pandas
+* Seaborn
+* Matplotlib
 
 You will also find some python code to perform basic analysis on the data obtained from the above steps.
 
